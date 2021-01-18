@@ -1,6 +1,6 @@
 # Newsletter
 
-| [Home](Content/TitlePage.md) | [Contents](Content/CoverPage/Contents.md) |
+| [Home](README.md) | [Contents](Content/CoverPage/Contents.md) |
 
 
 ![GNDEC](Content/CoverPage/Images/GNDEC.png)
