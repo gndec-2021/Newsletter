@@ -1,4 +1,4 @@
-# Newsletter 2021
+# Newsletter
 
 | [Home](Content/TitlePage.md) | [Contents](Content/CoverPage/Contents.md) |
 
