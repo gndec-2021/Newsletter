@@ -2,8 +2,8 @@
 
 
 ***Editors-in-Chief***
-- Dr. Sumeet Kaur Sehra (CSE)
-- Er. Yuvraj Singh (CE)
+- [Dr. Sumeet Kaur Sehra (CSE)](https://gndec.ac.in/faculty/?id=95)
+- [Er. Yuvraj Singh (CE)](Profiles/YJS.md)
 
 
 ***Departmental Editors***
@@ -31,8 +31,8 @@
 
 # Advisory Board
 
-- Dr. Sehijpal Singh, Principal (GNDEC)
-- Dr. H S Rai, HoD (CE)
+- [Dr. Sehijpal Singh, Principal (GNDEC)](https://gndec.ac.in/faculty/?id=7)
+- [Dr. H S Rai, HoD (CE)](https://gndec.ac.in/faculty/?id=268)
 - Dr. Paramjit Singh Bilga, HoD (ME)
 - Dr. Jasmaninder Singh Grewal, HoD (PE)
 - Dr. Kanwardeep Singh, HoD (EE)
