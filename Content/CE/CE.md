@@ -69,7 +69,7 @@ vol 21. Springer, Cham. https://doi.org/10.1007/978-3-030-02707-0_65](https://li
 
 #### - Student's Achievements
 
-## Association of Civil Engineering students (ACES)
+## Association of Civil Engineering Students (ACES)
 
 - (Here you can add news/details of events conducted etc., related to your departmental Society). *DO NOT forget to replace the title with the name of your departmental Society*
 
