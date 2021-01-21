@@ -14,8 +14,10 @@
 
 To address the issues associated with poor workflow, and making sure that the computer resources are used efficiently and with the provision to track changes, TEQIP-III sponsored skill development training on "Efficient, Trackable and Sustainable Workflow" was organised by Examination Branch of Guru Nanak Dev Engineering College (GNDEC) in association with Departments of Civil Engineering and Computer Science Engineering from December 02-08, 2020.  
 
-![SDT](Images/SDT_1.png)
-***The organising team of SDT during the event***
+![SDT](Images/SDT_1.png)   
+
+
+***The organising team of SDT during the event***  
 
 This one week training suitable for all professionals commenced from December 02, 2020 onwards on a self-paced mode. The skill development training concluded successfully with a valedictory function. Course Co-ordinator, Dr H S Rai while briefing the proceedings of the training program which focussed on Version Control System (VCS) mentioned the diverse range of participants from the Principal of the institution, faculty members, students to non-teaching staff. In order to deliver the course content effectively and efficiently, an excellent learning platform and content management system called Moodle was used. This platform enabled the participants to learn and attain hands on experience at their own pace. The training program also encouraged peer learning by discussing doubts among participants at the dedicated forum. Furthermore, keeping in view the changing scenario, Dr Rai emphasized on paper-less and thus a sustainable approach towards documentation by using available open-source powerful tools. Adding to this, he also talked about importance of version control of these documents which was the core of this training program.
 
