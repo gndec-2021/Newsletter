@@ -1,12 +1,9 @@
-# Newsletter
+# GNDEC Times  2021
 
-| [Home](README.md) | [Contents](Content/CoverPage/Contents.md) |
+| [Home](TitlePage.md) | [Contents](CoverPage/Contents.md) |
 
-
-![GNDEC](Content/CoverPage/Images/GNDEC.png)
-
-
+![GNDEC](CoverPage/Images/GNDEC.png)
 # Guru Nanak Dev Engineering College, Ludhiana
 An Autonomous College Under UGC Act 1956
 
-![logo](Content/CoverPage/Images/logo.png)
+![logo](CoverPage/Images/logo.png)
