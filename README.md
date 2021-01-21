@@ -1,6 +1,6 @@
 # GNDEC Times  2021
 
-| [Home](README.md) | [Contents](Content/CoverPage/Contents.md) |
+| [Home](README.md) | [Contents](Content/CoverPage/Contents.md) | [Editorial Board](EditorialBoard.md)
 
 ![GNDEC](Content/CoverPage/Images/GNDEC.png)
 # Guru Nanak Dev Engineering College, Ludhiana
