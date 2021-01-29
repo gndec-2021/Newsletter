@@ -18,7 +18,7 @@
 
 **Sandhya kumari of D2CSE-1805221(Brinze Medalist in PTU Crosscuntry Meet)**
 
-![Sandhya](Images/Star/5.jpg)
+![Sandhya](Images/Star/5.JPG)
 
 
 **IKGPTU Inter-college Tournaments
