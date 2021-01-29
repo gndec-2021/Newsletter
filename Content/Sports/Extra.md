@@ -25,40 +25,40 @@
 The teams in different games bagged first three positions in PTU Inter-college Tounaments in boys and girls, respectively**
 
 ![1](Images/Teams/1-1st.jpg)
-*Winner Badminton Team*
+***Winner Badminton Team***
 
 ![1](Images/Teams/2-1st.jpg)
-*Winner Cycling Team*
+***Winner Cycling Team***
 
 ![1](Images/Teams/3-1st.jpeg)
-*Winner Cycling Team*
+***Winner Cycling Team***
 
 ![1](Images/Teams/4-1st.jpg)
-*Winner Hockey Team*
+***Winner Hockey Team***
 
 ![1](Images/Teams/5-1st.jpg)
-*Winner Table-tennis Team*
+***Winner Table-tennis Team***
 
 ![1](Images/Teams/6-2nd.jpeg)
-*Runner-up Basketball Team*
+***Runner-up Basketball Team***
 
 ![1](Images/Teams/7-2nd.jpg)
-*Runner-up Football Team*
+***Runner-up Football Team***
 
 ![1](Images/Teams/8-2nd.JPG)
-*Runner-up Cross-Country Team*
+***Runner-up Cross-Country Team***
 
 ![1](Images/Teams/9-3rd.jpeg)
-*Third Basketball Team*
+***Third Basketball Team***
 
 ![1](Images/Teams/10-3rd.jpg)
-*Third Lawn-tennis Team*
+***Third Lawn-tennis Team***
 
 ![1](Images/Teams/11-3rd.jpg)
-*Third Lawn-tennis Team*
+***Third Lawn-tennis Team***
 
 ![1](Images/Teams/12-3rd.JPG)
-*Third Cross-Country Team*
+***Third Cross-Country Team***
 
 ![1](Images/Teams/13-3rd.jpg)
-*Third Power-Lifting Team*
+***Third Power-Lifting Team***
