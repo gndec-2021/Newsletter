@@ -21,7 +21,7 @@ The Sports department works on promotion of personal and professional developmen
 
 - The college won **IKG PTU Over All Combined Championship Trophy** both in session 2018-19 &19-20.Rs.2 lac for each session was awarded consecutively by IKGPTU, Kapurthala for this outstanding achievements.The college is reigning this Trophy from the last 17 years consecutively.  
 
-![1](Images/overall.jpg)
+![1](Images/overall.JPG)
 
 ## News
 
