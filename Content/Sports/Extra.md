@@ -45,7 +45,7 @@ The teams in different games bagged first three positions in PTU Inter-college T
 ![1](Images/Teams/7-2nd.jpg)
 *Runner-up Football Team*
 
-![1](Images/Teams/8-2nd.jpg)
+![1](Images/Teams/8-2nd.JPG)
 *Runner-up Cross-Country Team*
 
 ![1](Images/Teams/9-3rd.jpeg)
@@ -57,7 +57,7 @@ The teams in different games bagged first three positions in PTU Inter-college T
 ![1](Images/Teams/11-3rd.jpg)
 *Third Lawn-tennis Team*
 
-![1](Images/Teams/12-3rd.jpg)
+![1](Images/Teams/12-3rd.JPG)
 *Third Cross-Country Team*
 
 ![1](Images/Teams/13-3rd.jpg)
