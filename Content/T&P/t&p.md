@@ -15,6 +15,8 @@ The cell contrives to provide training in industries for 6 weeks at the end of 4
 Many National and Multinational companies visit the college for recruitments. The Cell is a link that provides students with all the information they require at the fastest rate possible. A common placement brochure gets published annually covering all aspects. The Training & Placement Cell works day and night in order to develop 'Industry-Institute Interaction'. Along with Developing relations with the industries, the cell organizes technical talks and national seminars to provide a platform for budding engineers to interact with professionals from various industries, it encourages college students to visit the industries. The students regularly visit the industries under TEQIP-II programme.
 </p>
 
+----
+
 ## Message from TPO's Desk
 
 ![G.S.Sodhi](Images/sodhi.jpg)
@@ -31,12 +33,16 @@ The Training and Placement Cell, GNDEC along with giving an outstanding placemen
 Students of the previous batches have further assured the solid foundation of our institution by taking placements in companies with top global reputation. The bonds developed with the industries ultimately lead to a great future ahead, providing an environment for research and education. Thus,  I invite the recruiting organizations and graduating students to find the best match between their needs and capabilities and look forward to have your active participation.
 </p>
 
+----
+
 ## Major Recruiters
 \
 ![MajorRecruiters](Images/Major_Recruiters.jpg)
 
 \
 ![hefty](Images/hefty.jpg)
+
+----
 
 ## Training And Placement team
 \
@@ -48,6 +54,8 @@ Guru Nanak Dev Engineering College also has an active training and placement cel
 <p align=justify>
 The Training & Placement Cell was applauded for its efforts and achievements by a national daily.
 </p>
+
+----
 
 ## HR Summit 2020 in Collaboration with CII
 \
@@ -69,6 +77,8 @@ To promote this proactive exchange, Guru Nanak Dev Engineering College in associ
 The prominent speakers from reputed companies like TCS, Accenture, Infosys, Ambuja Cement, Kangaroo, Amber, Nahar Group, Themax, Mahindra & Mahindra and many more marked their presence at the conference.
 </p>
 
+----
+
 ## Placement Highlights
 \
 ![placement](Images/Placement_Highlights2.jpeg)
@@ -81,20 +91,54 @@ The prominent speakers from reputed companies like TCS, Accenture, Infosys, Ambu
 
 ![placement](Images/Placement_Highlights5.jpeg)
 
+----
+
 ## Student Achievements
 
+\
 ![achievement](Images/HACKTHON_Winners2.jpeg)
 
 ![achievement](Images/TCS_InfraMind_Winners_2.jpeg)
 
 ## Events
-
+\
 ![codevita](Images/codevita.png)
+
+<p align=justify>
+TCS CodeVita, is a contest for engineering and science students to experience the joy of coding and to sharpen their programming skills through real-life computing practices. The contest also aims at identifying the talent, besides providing the student community, an opportunity to earn peer recognition.
+</p>
+
+----
 
 ![nqt](Images/TCS-NQT-2020.jpg)
 
+<p align=justify>
+NQT - which is conducted by TCS' strategic unit TCS iON - is a multi-level assessment to assess competence on core cognitive abilities required for entry-level jobs, industry-specific knowledge and insights, and specialisation on skills required for performing the job role.
+</p>
+
+----
+
 ![hackwithinfy](Images/hackwithinfy.png)
+
+<p align=justify>
+HackWithInfy is India-wide coding competition for final year engineering students. ... Top performers in the competition not only win exciting prizes, but also earn a chance to work with Infosys in niche technical roles.
+</p>
+
+----
 
 ![infytq](Images/inftq.jpg)
 
+<p align=justify>
+InfyTQ is a free platform open to all engineering students in their third and fourth year across India. The platform encourages holistic development by imparting technical as well as professional skills and help them become industry ready.
+</p>
+
+----
+
 ![nlth](Images/wipro_NLTH_Elite.jpg)
+
+<p align=justify>
+Image result for what is wipro nlth
+Elite National Level Talent Hunt 2021 (NLTH) is a fresher's hiring initiative to attract the best of 2021 engineering talent across the country. And the objective of this initiative is to enable an equal opportunity for employment to the most deserving talent across all engineering streams in India.
+</p>
+
+----
