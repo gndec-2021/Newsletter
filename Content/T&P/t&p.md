@@ -107,6 +107,8 @@ Amidst the worrisome pandemic situation causing tremendous losses to the Indian 
 
 ![infy](Images/infosysF.jpg)
 
+![biz](Images/BIZHR.jpg)
+
 ----
 
 ## Student Achievements
