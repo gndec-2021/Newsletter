@@ -103,7 +103,7 @@ Amidst the worrisome pandemic situation causing tremendous losses to the Indian 
 \
 ![cogni](Images/CognizantF.jpg)
 
-![tcs](Images/TCSF.jpg)
+![tcs](Images/TCSF1.jpg)
 
 ![infy](Images/infosysF.jpg)
 
