@@ -98,6 +98,17 @@ Amidst the worrisome pandemic situation causing tremendous losses to the Indian 
 
 ----
 
+## Some of Our Placed Students
+
+\
+![cogni](Images/CognizantF.jpg)
+
+![tcs](Images/TCSF.jpg)
+
+![infy](Images/infosysF.jpg)
+
+----
+
 ## Student Achievements
 
 \
