@@ -9,7 +9,8 @@ The Department of Information Technology (DIT) imposes impact on both the urban 
 ## Department at Glimpse
 
 
-- **STTP on “Artificial Intelligence and Machine Learning with Data Science” (Phase-I)**
+- **STTP on “Artificial Intelligence and Machine Learning with Data Science” (Phase-I)**  
+
 One week AICTE sponsored online Short Term Training Programme (STTP) on title “Artificial Intelligence and Machine Learning with Data Science” has been inaugurated on Monday.  This programme is organized by the Department of Information Technology, Guru Nanak Dev Engineering College (GNDEC), Ludhiana during 02nd-07th November 2020.  AICTE under Quality Improvement Scheme (AQIS) enables the faculty members/ research scholars to introspect & learn latest techniques that can help them to contribute for the betterment of themselves & society through knowledge enhancement.
 Dr. Deepak Garg Prof. HOD CSE (Bennet University, Noida) and Director (leadingindia.ai, NVIDIA-BCRAI) inaugurated this online programme as chief guest and shared his expert opinions on various research challenges in the domain of artificial intelligence. While sustaining the interactive session, Dr. Garg responded all queries of the participants. He enlightened the various benefits of using the artificial intelligence like reduction of time taken to perform a task, enabling the execution of hitherto complex tasks without significant cost outlays, 24*7 operations without interruption with no downtime, and enhancing the capabilities of differently abled individuals. Dr. Jitender Kumar Chhabra from NIT Kurukshetra delivered the expert talk on the topic “Adding Intelligence to Engineering Systems”.
 Dr. Sehijpal Singh, Principal of GNDEC conveyed that e-learning is the optimum solution during this epidemic current situation and appreciated the efforts of the organizers. He enlightened the significance of AI, ML and Data Analytics in all evolving disciplines.
@@ -17,7 +18,7 @@ Dr. Sehijpal Singh, Principal of GNDEC conveyed that e-learning is the optimum s
 
 
 
-- **STTP on “Cyber Security-Current Trends and Future Perspective” (Phase-I)**
+- **STTP on “Cyber Security-Current Trends and Future Perspective” (Phase-I)**  
 
  Information Technology Department of Guru Nanak Dev Engineering College, Ludhiana concluded the weeklong series of lectures and hands-on practice sessions held in the online AICTE Sponsored Short Term Training Programme (STTP) on title “Cyber Security – Current Trends and Future Perspective”. This online training programme was conducted during 09th-14th November 2020 from the High Performance Computing Lab of the Information Technology Department. AICTE under Quality Improvement Scheme (AQIS) enables the faculty members/ research scholars to introspect & learn latest techniques that can help them to contribute for the betterment of themselves & society through knowledge enhancement. This programme was organized with the objective to expose the faculty, research scholars and professionals to develop their competency and expertise over security and networking along-with providing the knowledge about the ongoing scenario in the area of cyber security. Various computer and cyber security threats such as identity theft, phishing attacks, email hoaxes, loss of confidential information and social engineering were elaborated in details with practical exposure.  Renowned and experienced resource persons from renowned organizations like IITs, NITs, NITTTR and GFSU etc. had shared their experiences on various topics in this STTP. Practitioners from industries like UNet Solutions, CyberSec Society and CDAC etc. had demonstrated the real time industry problems as well as methods used as recovery process for various significant issues. Various research concerns were also discussed by the experts in this STTP.
  Mr. Sanjay Sharma from IIT Kanpur was invited as keynote speaker and he shared his expert opinions on real time challenges identified in the current pandemic situation. Dr. Animesh Mukherjee from IIT Kharagpur elaborated the significance of “Hate Speech Dynamics in Social Media” with concern to the current scenario. Er. Vipin Gupta from UNet Solutions executed the hands on practice session on Intrusion Detection System. Mr. Ch A.S. Murty from CDAC Hyderabad pointed out various innovative ideas implemented at the industry and government level for the concern of cyber security. He shared his expert opinions on the topics of “Cyber Crime Scenario: Global and India Perspective” and “Open Source Tools for Cyber Security”. Dr. Haresh Barot from GFSU Gandhinagar delivered his expert talk on Fraud Detection & Forensic accounting with further elaboration of the real-time dataset. Dr. Somitra Kr. Sanadhya from IIT Ropar pointed out the roles of Cryptography & Zero-Knowledge Proofs with reference to the cyber security.
@@ -25,7 +26,8 @@ Dr. Sehijpal Singh, Principal of GNDEC conveyed that e-learning is the optimum s
 ![HSR](Images/c1.jpg)
 
 
-- **STTP on “Artificial Intelligence and Machine Learning with Data Science” (Phase-II)**
+- **STTP on “Artificial Intelligence and Machine Learning with Data Science” (Phase-II)**  
+
  One week AICTE sponsored online Short Term Training Programme (STTP) on title “Artificial Intelligence and Machine Learning with Data Science” has been inaugurated on Monday.  This programme is organized by the Department of Information Technology, Guru Nanak Dev Engineering College (GNDEC), Ludhiana during 14th-19th December 2020.  AICTE under Quality Improvement Scheme (AQIS) enables the faculty members/ research scholars to introspect & learn latest techniques that can help them to contribute for the betterment of themselves & society through knowledge enhancement.
  Dr. Deepak Garg Prof. HOD CSE (Bennet University, Noida) and Director (leadingindia.ai, NVIDIA-BCRAI) inaugurated this online programme as chief guest and shared his expert opinions on various research challenges in the domain of artificial intelligence. While sustaining the interactive session, Dr. Garg responded all queries of the participants. He enlightened the various benefits of using the artificial intelligence like reduction of time taken to perform a task, enabling the execution of hitherto complex tasks without significant cost outlays, 24*7 operations without interruption with no downtime, and enhancing the capabilities of differently abled individuals. Dr. Jitender Kumar Chhabra from NIT Kurukshetra delivered the expert talk on the topic “Adding Intelligence to Engineering Systems”.
  Rest of the topics to shared in this STTP with practical demonstration (Hands-on practices) includes “Classification and Clustering Algorithms”, “Adding Intelligence to Engineering Systems”, “Data Analytics using Hive and HBase”, “Deep Learning with Tensor flow”, “Disruptive applications of AI in various industries with use cases & scientific solutions”, “Modern day methods of Anomaly Detection and their use in Security Industry”, “Spatial Data Science”, “Machine Learning with Urban Computing”, and “NLP with Deep Learning”, etc.
@@ -34,14 +36,16 @@ Dr. Sehijpal Singh, Principal of GNDEC conveyed that e-learning is the optimum s
  ![HSR](Images/a2.jpg)
 
 
-- **STTP on “Cyber Security-Current Trends and Future Perspective” (Phase-II)**
+- **STTP on “Cyber Security-Current Trends and Future Perspective” (Phase-II)**  
+
  Information Technology Department of Guru Nanak Dev Engineering College, Ludhiana concluded the weeklong series of lectures and hands-on practice sessions held in the online AICTE Sponsored Short Term Training Programme (STTP) on title “Cyber Security – Current Trends and Future Perspective”. This online training programme was organized during 14th-19th December 2020 from the Information Technology Department of GNE College. AICTE under Quality Improvement Scheme (AQIS) enables the faculty members/ research scholars to introspect & learn latest techniques that can help them to contribute for the betterment of themselves & society through knowledge enhancement. This programme was organized with the objective to expose the faculty, research scholars and professionals to develop their competency and expertise over security and networking along-with providing the knowledge about the ongoing scenario in the area of cyber security. In this STTP, various computer and cyber security threats such as identity theft, phishing attacks, email hoaxes, loss of confidential information and social engineering were elaborated in details with practical exposure.  Renowned and experienced resource persons from highly reputed organizations like IITs, NITs, GFSU, and GNDEC etc. had shared their experiences on various topics in this STTP. Practitioners from industries like UNet Solutions, HackersEra and CDAC etc. had demonstrated the real time industry problems as well as methods used as recovery process for various significant issues. Many research concerns were also discussed by the experts in this STTP.
  Dr. Sumit Kumar, Assistant Director (Income Tax Department, Ghaziabad) was invited as keynote speaker and he shared his expert opinions on real time challenges identified in the current pandemic situation. He enlightened various security breaches that could occur for a organization and also informed about the abundant security mechanisms used within the Income Tax department. Er. Vipin Gupta from UNet Solutions executed the hands-on practice session on Malware Detection and Mitigation. In the practical session, he also elaborated the deployment of web servers and databases in Virtual Private Cloud with security procedures.  Dr. Animesh Mukherjee from IIT Kharagpur mentioned the significance of “Hate Speech Dynamics in Social Media” with concern to the current scenario. Dr. Udai Pratap Rao from SVNIT Surat demonstrated his exposure for the Data Privacy Annonymization Techniques and Block Ciphers.
 
 
 ![HSR](Images/a2.jpg)
 
-- **Five Days Faculty Development Programme on “Moodle Learning Management System”**
+- **Five Days Faculty Development Programme on “Moodle Learning Management System”**  
+
  Five Days Faculty Development Programme on “Moodle Learning Management System” was organized by the Department of Information Technology, Guru Nanak Dev Engineering College, Ludhiana in association with the Spoken Tutorial, IIT Bombay during Monday to Friday. Online Test for the Successful Completion of this programme was conducted in the evening of May 2nd 2020. E-Participation Certificate were generated and distributed among the successfully qualified participants. Dr. Pankaj Bhambri and Er. Sachin Bagga, Course Coordinators from GNDEC informed that 429 candidates from different colleges and universities of India participated in this FDP, among them 232 male and 197 were the female participants. Moodle is free and open source software and it helps the teachers and educators to create online courses for an adaptive and customized learning. It is used by many small and large educational institutions to create and deliver courses online to their students. Spoken Tutorial Project is funded by the National Mission on Education through Information and Communication Technology, Ministry of Human Resource Development, Government of India and is recommended by NASSCOM as well. Dr. Bhambri enlightened that spoken tutorial project has many unique features w.r.t. other available online courses like self explanatory, uses multi-sensory approaches, small duration, learned-centered, learning by doing, and simultaneous empowerment. He mentioned that this course was organized free of cost among the curious learners. Dr. Sehijpal Singh, Principal of GNDEC conveyed that e-learning is the optimum solution during this epidemic current situation and appreciated the efforts of the organizers. GNDEC is already using the Moodle Platform successfully under the leadership of Dr. H.S.Rai, C.O.E. for the effective teaching learning process.
 
 
@@ -54,9 +58,11 @@ Dr. Sehijpal Singh, Principal of GNDEC conveyed that e-learning is the optimum s
 
 ## Faculty Achievements  
 
-- Dr. Amit Kamra got ISTE Best Teacher award.
-![HSR](Images/kamra.jpg)
-- Dr. Kiran Jyoti received an Grant of Rs. 2,58,333 for conducting STTP on "Artificial Intelligence and Machine Learnining with Data Science" vide 601.15(a) dated 10th August 2020
+- Dr. Amit Kamra got ISTE Best Teacher award.  
+
+![HSR](Images/kamra.jpg)  
+
+- Dr. Kiran Jyoti received an Grant of Rs. 2,58,333 for conducting STTP on "Artificial Intelligence and Machine Learning with Data Science" vide 601.15(a) dated 10th August 2020
 
 
 ## Publications  
@@ -154,7 +160,7 @@ Dr. Sehijpal Singh, Principal of GNDEC conveyed that e-learning is the optimum s
 
 ## Student's Corner  
 
-**Winners of Smart India Hackathon 2020**
+**Winners of Smart India Hackathon 2020**  
 
 ![HSR](Images/h.png)
 
@@ -164,7 +170,8 @@ Team, named another national level achievement, named the world's largest nation
 hackathon.
 Gurmeet Singh (Team Leader) and team members, Damanpreet Singh, Deepinder Kaur, Jaskaran Singh, Sukhmandeep Kaur and Prabhleen Kaur achieved this feat with intelligent use of their technical knowledge and hard work.
 
-**Placement in Microsoft**
+**Placement in Microsoft**  
 
-Jyoti Gupta, a student of final year IT(Batch 2017-21), has been placed in Microsoft.
 ![HSR](Images/jyoti.jpeg)
+
+Jyoti Gupta, a student of final year IT(Batch 2017-21), has been placed in Microsoft.  
