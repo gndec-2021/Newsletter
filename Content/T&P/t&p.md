@@ -101,13 +101,13 @@ Amidst the worrisome pandemic situation causing tremendous losses to the Indian 
 ## Some of Our Placed Students
 
 \
-![cogni](Images/CognizantF.jpg)
+![cogni](Images/cogniF.jpg)
 
-![tcs](Images/TCSF1.jpg)
+![tcs](Images/TCSF2.jpg)
 
-![infy](Images/infosysF.jpg)
+![infy](Images/infyf.jpg)
 
-![biz](Images/BIZHR.jpg)
+![biz](Images/bizf.jpg)
 
 ----
 
