@@ -9,24 +9,37 @@ Prof. Ameeta Seehra
 
 Head of Department
 
-![aks](Images/aks.png)
+![aks](Images/aks.jpg)
 
 
 
 ## Department at Glimpse
 
- - (You may add details of events conducted in your department along with photographs of the event under this heading. An example is given below for your reference)
 
-- **SDT on "Efficient, Trackable and Sustainable Workflow"**
+- **Webinar Lecture Series on "Information Security"**
 
-To address the issues associated with poor workflow, and making sure that the computer resources are used efficiently and with the provision to track changes, TEQIP-III sponsored skill development training on "Efficient, Trackable and Sustainable Workflow" was organised by Examination Branch of Guru Nanak Dev Engineering College (GNDEC) in association with Departments of Civil Engineering and Computer Science Engineering from December 02-08, 2020.  
+Dr. Harsimranjit Singh Gill(Coordinator)
 
-![SDT](Images/SDT_1.png)
-***The organising team of SDT during the event***
+![2](Images/2.jpg)
 
-This one week training suitable for all professionals commenced from December 02, 2020 onwards on a self-paced mode. The skill development training concluded successfully with a valedictory function. Course Co-ordinator, Dr H S Rai while briefing the proceedings of the training program which focussed on Version Control System (VCS) mentioned the diverse range of participants from the Principal of the institution, faculty members, students to non-teaching staff. In order to deliver the course content effectively and efficiently, an excellent learning platform and content management system called Moodle was used. This platform enabled the participants to learn and attain hands on experience at their own pace. The training program also encouraged peer learning by discussing doubts among participants at the dedicated forum. Furthermore, keeping in view the changing scenario, Dr Rai emphasized on paper-less and thus a sustainable approach towards documentation by using available open-source powerful tools. Adding to this, he also talked about importance of version control of these documents which was the core of this training program.
+Under the NPIU program, “Train-the-Trainer”, 4-week job-oriented training programme titled “Webinar Lecture Series on Information Security” sponsored by TEQIP-III was organized for the students of ECE, IT, and CSE from 02-11-2020 to 27-11-2020.
+The main aim of the training programme was to spread awareness and motivate students to learn, work, and contribute in the field of cyber security. Apart from discussion of theoretical concepts of information security, hands-on-training session were also conducted to comprehend the prominent areas of field.
 
-During the valedictory function, feedback from participants was taken. The participants expressed their joy in learning new skills during the training program. One of the participants, Dr K D Singh said that if implemented, such a version control system can prove to be a revolutionary step for the organisation to address issues related to effective management of documentation. Dr Sehijpal Singh, Principal, GNDEC, while addressing the audience said that efficient workflow is the need of every organisation as poor documentation often leads to mismanagement and wastage of lot of resources. He expressed his views on importance of this much needed course for addressing the said issues. Furthermore, he, as a course participant too, said that the training program was an enjoyble and a great learning experience. He congratulated the organising team for this wonderful effort and dedicated approach during the training program.
+
+- **Project on "Automatic hand sanitizer dispenser"**
+
+![mon1](Images/mon1.jpg)  
+
+![mon](Images/mon.jpg)
+
+Innovation is a blast whenever it is utilized in a correct way. With such a vision in mind, our final year Student, Montekpal Singh, ECE Branch, have developed ‘automatic hand sanitizer dispenser’ for all of us keeping in mind the Covid-19 pandemic, under the guidance of ECE Faculty members. This project is capable of detecting and cleaning the person’s hands with the use of sensors and microcontroller. Furthermore, it has features like easy refillable tank and smartly controlled spray system which permits the use of sanitizer efficiently without any wastage. Moreover, the system was tested vigorously for any problems and reliability issues. The project has successfully placed in college premises to benefit everyone with its service.
+Features include:
+-	All the components used in manufacturing of the Dispenser are made in India.
+-	The intelligent Dispenser is capable of detecting the distance from the person’s hands with the help of IR sensors.
+-	Either in broad daylight or at night, the sensor is able to detect the presence of hands.
+-	It gives a beeping sound while running and stops after 2 seconds of spraying to save sanitizer use.
+-	The detachable tank makes refilling and cleaning very easy.
+-	Every possible problem that is present in the already available dispensers in the market like sanitizer dripping leakage, running because of sunlight glare on its own, all has been addressed in this project.
 
 ## Faculty Achievements  
 
@@ -80,7 +93,7 @@ Coursera on29 November, 2020.
 | 5       | Expert Lecture on "Procedural and substantial aspects of intellectual property Rights and its advantages for science and engineering students" | Simranjit Kaur | One day | 30-Jan-2020| TEQIP-III  |
 | 6       | Webinar on "IPR and Patent Filing" | Simranjit Kaur| One day |2-Jul-2020 | TEQIP-III  |
 | 7       | HR Summit 2020 | Daljit Singh | One day | 4-Feb-2020 | TEQIP-III  |
-| 8       | Advance training Program by NSIC for final year students: 1. 3D Core concepts-Solid Works-CAD 2. Artificial Inteligence & Machine Learning 3. Siemens PLC Training SIMATIC S7-1200 | Daljit Singh | Two weeks |January 6-17, 2020 | TEQIP-III  |
+| 8       | Advance training Program by NSIC for final year students: 1. 3D Core concepts-Solid Works-CAD 2. Artificial Intelligence & Machine Learning 3. Siemens PLC Training SIMATIC S7-1200 | Daljit Singh | Two weeks |January 6-17, 2020 | TEQIP-III  |
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
@@ -159,23 +172,14 @@ Coursera on29 November, 2020.
 
 #### - Student's Achievements
 
-![mon](Images/mon.jpg)
-![mon1](Images/mon1.jpg)  
+- Priyanka Sroya, 2nd year student secured 2nd position in Poster making contest held from 19-21 June, 2020 organized by Civil Department.
+- Harnoor Singh, 2nd year student got 3rd prize in Western Singing solo competition in Anand Utsav 2020 held on 5-7 March, 2020.
+- Mandip Dhaliwal, final year student got placed in Samsung Company with a package of 12Lakhs.
 
-Innovation is a blast whenever utilized the correct way. With such vision in mind, final year electronics and engineering student have developed ‘automatic hand sanitizer dispenser’ for all. MONTEKPAL SINGH, final year electronics and communication engineering student is the inventor of the project. He mentioned that the automatic hand sanitizer dispenser is made using Indian manufactured parts only and is capable of detecting the distance from the person’s hands with the use of sensors and microcontroller. Furthermore it has features like easy refillable tank and smartly controlled spray system which will allow the use of sanitizer efficiently without any wastage. Moreover, the system is tested vigorously for any problems and reliability issues. Either its day or night, the programmed sensor would detect the presence of hands from a particular distance very easily.
-About the Automatic Hand Sanitizer Dispenser:
--	All the parts used in making of the Dispenser are Indian Made.
--	The intelligent Dispenser is capable of detecting the distance from the person’shands with the help of IR sensors.
--	Either in broad daylight or at night, the sensor is able to detect the presenceof hands.
--	It gives a beeping sound while running and stops after 2 seconds of spraying to save sanitizer.
--	The detachable tank makes refilling and cleaning very easy.
--	Every possible problem that is present in the already available dispensers in the market like sanitizer dripping leakage, running because of sunlight glare on its own, all has been addressed.
+## IETE STUDENT FORUM
 
+![1](Images/1.jpg)
 
-## Association of Electronics Engineering students (ACES)
+-'BRAIN BOOMERANG'   
 
-- (Here you can add news/details of events conducted etc., related to your departmental Society). *DO NOT forget to replace the title with the name of your departmental Society*
-
-
-
-**NOTE:** Feel free to add any other information in the form of paragraph, bulleted list, numbered list, etc. For any queries or help, post in Whatsapp group. **And do not forget to delete this note. ;-)**
+An online inter-class quiz competition for ECE students on Zoom platform held on 22-sept, 2020 for 2nd year students, 23-sept,2020 for 3rd year students and 24-sept, 2020 for final year students.
