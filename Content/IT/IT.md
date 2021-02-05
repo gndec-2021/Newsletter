@@ -175,3 +175,9 @@ Gurmeet Singh (Team Leader) and team members, Damanpreet Singh, Deepinder Kaur, 
 ![HSR](Images/jyoti.jpeg)
 
 Jyoti Gupta, a student of final year IT(Batch 2017-21), has been placed in Microsoft.  
+
+**Microsoft/IBM ambassador**  
+
+![HSR](Images/s3.jpeg)  
+
+Alakhdeep Singh, a student of second year(Batch 2019-2023) is Microsoft Learn student Ambassador and also IBM Z Ambassador.  
