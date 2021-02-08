@@ -1,44 +1,100 @@
-# Department of Civil Engineering  
+# Department of Electrical Engineering  
 
 ## Message from HoD's Desk
 
-![HSR](Images/HSR.png)
+![KDS](Images/KDS.png)
 
+Technical education blended with ethics and quality comprises of one of the most powerful tools, which gives shape to the coming generations. We at Guru Nanak Dev Engineering College, Ludhiana are trying our level best to make optimized utilization of modern tools and techniques, so that quality technical education can come within the reach of the large masses of India with convenience and affordability.
+I am very hopeful that the publishing of the present College Newsletter will showcase our valuable achievements to the world, which the students and staff have made in spite of all the past and ongoing natural and man-made hurdles.
+I am thankful to GOD almighty for making us capable to perform these tiny but effective efforts. Last but not the least, I congratulate the whole Editorial Board and all involved for their fine individual and team works.
+
+Dr. Kanwardeep Singh     
+Associate Professor and H.O.D.    
+(Department of Electrical Engineering)
 
 
 ## Department at Glimpse
 
- - (You may add details of events conducted in your department along with photographs of the event under this heading. An example is given below for your reference)
+**TEQIP-III sponsored
+ICT enabled FDP on Energy Conservation and Management** :
 
-- **SDT on "Efficient, Trackable and Sustainable Workflow"**
+A one week TEQIP III sponsored ICT enabled Faculty Development Program
+on Energy Conservation and Management was organized by Electrical
+Engineering Department from April 27- May 1, 2020. The call for registration
+was floated online through Google forms and an overwhelming number of
+participants: 202 registered for the program. Keeping in view the logistics, it
+was decided to conduct the program twice with around 100 participants in each batch.
 
-To address the issues associated with poor workflow, and making sure that the computer resources are used efficiently and with the provision to track changes, TEQIP-III sponsored skill development training on "Efficient, Trackable and Sustainable Workflow" was organised by Examination Branch of Guru Nanak Dev Engineering College (GNDEC) in association with Departments of Civil Engineering and Computer Science Engineering from December 02-08, 2020.  
+- ***The organisation of the event*** :
+Dr. D P Kothari, Ex-director, IIT, Delhi, Ms. Sangita Kapoor,
+Director, Blue Planet, Kolkata, Dr.Parag Nijhawan, TIET, Patiala, Dr. Y.S.Brar,
+IKGPTU, Kapurthala, Dr.Y.P.Verma, UIET, Chandigarh, Er. Money Khanna,
+PEDA, Chandigarh, Dr. Kanwardeep Singh &amp; Dr. Arvind Dhingra, GNDEC,
+Dr. Ritula Thakur, NITTTR, Chandigarh, Dr. Pradeep Rajan, CMERI-
+MERADO, Ludhiana, Dr. Sudhir Sharma, DAVIET, Jalandhar, Dr. Saurabh
+Ratra, PAU, Ludhiana were the expert speakers for various sessions. The
+participants were introduced to various topics like energy conservation and its
+need, circular thinking, fuel cell, demand side management, energy
+management standards, role embedded systems in energy conservation, micro
+grids, green buildings, energy management in farm sector, impact of COVID 19
+on Indian power sector.
+The inaugural and valediction programs were attended by Principal Dr. Sehijpal
+Singh who appreciated the efforts of the department for organizing such an event.
 
-![SDT](Images/SDT_1.png)
-***The organising team of SDT during the event***
 
-This one week training suitable for all professionals commenced from December 02, 2020 onwards on a self-paced mode. The skill development training concluded successfully with a valedictory function. Course Co-ordinator, Dr H S Rai while briefing the proceedings of the training program which focussed on Version Control System (VCS) mentioned the diverse range of participants from the Principal of the institution, faculty members, students to non-teaching staff. In order to deliver the course content effectively and efficiently, an excellent learning platform and content management system called Moodle was used. This platform enabled the participants to learn and attain hands on experience at their own pace. The training program also encouraged peer learning by discussing doubts among participants at the dedicated forum. Furthermore, keeping in view the changing scenario, Dr Rai emphasized on paper-less and thus a sustainable approach towards documentation by using available open-source powerful tools. Adding to this, he also talked about importance of version control of these documents which was the core of this training program.
 
-During the valedictory function, feedback from participants was taken. The participants expressed their joy in learning new skills during the training program. One of the participants, Dr K D Singh said that if implemented, such a version control system can prove to be a revolutionary step for the organisation to address issues related to effective management of documentation. Dr Sehijpal Singh, Principal, GNDEC, while addressing the audience said that efficient workflow is the need of every organisation as poor documentation often leads to mismanagement and wastage of lot of resources. He expressed his views on importance of this much needed course for addressing the said issues. Furthermore, he, as a course participant too, said that the training program was an enjoyble and a great learning experience. He congratulated the organising team for this wonderful effort and dedicated approach during the training program.
+![KDS](Images/ALL.JPG)
 
-## Faculty Achievements  
+![KDS](Images/SAB.JPG)
 
-- Er. Heena Malhotra completed her PhD in ...
+
+![KDS](Images/RS.JPG)
+(**Pf.Rupinderjit Singh** attended LISD Conference Jan 2020)
+
+![KDS](Images/AR.JPG)
+( **Pf. Arvind Dhingra and Pf. Rupinderjit Singh** attended TEQIP-3 Sponsored Faculty Development Programme on "Biomass to energy and other value added products" at IIT Delhi)
+
+![KDS](Images/AGS.JPG)
+(**Pf. Arshdeep Kaur, Pf. Gagandeep Kaur Gill and Pf. Sonia Grover**  attended TEQIP-3 Sponsored Faculty Development Programme on "Machine learning for Engineering Application" at IIT Delhi)
+
+
+
+## Faculty Achievements
+
+- **Dr. Arvind Dhingra** published book	Electronics – Electrician domestic Job Role Electrician Domestic: NSQF Level-2,MBD Publications, March,2020: ISBN 2002M5507C5779
+
+-  **Dr. Arvind Dhingra** won Dr.Sarvepalli Radhakrishnan Award at Educator’s Commemoration Ceremony by MentorX, September 5,2020.
+- **Dr. Arvind Dhingra** won I2OR National eminent Educator Award 2020, I2OR.
+- **Dr. Arvind Dhingra** won ISTE Best teacher award 2020 awarded at Chandigarh University, ISTE Teachers Convention, 2020, December 23,2020
+- **Er. Karanbir Singh** got Best Paper Award  for a paper entitled Residential Load  profile optimization using DSM  by  incorporating  models  of  Appliances  at  TEQIP-III sponsored  International Congress  on  Sustainable  Development  through  Engineering  Innovations  held  on September  17-19,  2020,  organized  by  the  college  in  association  with  Indian Geotechnical Society: Ludhiana Chapter and  Institution  of  Engineers (I): Ludhiana Center.
 
 
 ## Publications  
 
-- [**Yuvraj Singh**, **Harvinder Singh**. (2021) Applications of Fiber Reinforced Polymer Laminates in Strengthening of Structures.
-In: Ashish D.K., de Brito J., Sharma S.K. (eds) 3rd International Conference on Innovative Technologies for Clean and Sustainable Development. ITCSD 2020.
-RILEM Bookseries, vol 29. Springer, Cham. https://doi.org/10.1007/978-3-030-51485-3_17](https://link.springer.com/chapter/10.1007/978-3-030-51485-3_17)
+- **Dr Kanwardeep Singh**], Research Paper Titled “Optimizing Distributed Solar Photovoltaic Power Generation in Day- Ahead Electricity Market Incorporating Irradiance Uncertainty" published in Journal of Modern Power
+Systems and Clean Energy (Science Citation Index Expanded, ISSN: 2196-5625/ e-ISSN:2196-5420, impact factor: 3.09, open access), October 21st ,2020
+- **Mr. Mukesh** under the guidance of **Dr. Kanwardeep Singh** has presented the research paper titled “Contingency Ranking Through Different Methods and Reliability Enhancement Using Distributed Generation” in International Conference on Advancements in Engineering and Technology, Bhai Gurdas Institute of Engineering & Technology, Sangrur, Punjab, India, on July 21st  2020.
+- **Dhingra Arvind**, Singh Parminder, Nijhawan Parag, Model reduction of linear time invariant SISO systems using different optimal techniques, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
 
-- [**Yuvraj Singh**, Sukhwant Singh, **Harvinder Singh**. (2021) Effect of Steel Fibers on the Sorptivity of Concrete. In: Seetharamu S., Jagadish T., Malagi R.R. (eds)
-Fatigue, Durability, and Fracture Mechanics. Lecture Notes in Mechanical Engineering. Springer, Singapore.
-https://doi.org/10.1007/978-981-15-4779-9_32](https://link.springer.com/chapter/10.1007/978-981-15-4779-9_32)
+- **Dhingra Arvind**, Nijhawan Parag, Manish Kumar Singla, Meera Sharma, Sensor based optimization of energy in internet of things: A review, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
 
-- [Harpuneet Singh,**Yuvraj Singh** (2019) Applications of Recycled and Waste Materials in Infrastructure Projects. In: Singh H., Garg P., Kaur I. (eds)
-Proceedings of the 1st International Conference on Sustainable Waste Management through Design. ICSWMD 2018. Lecture Notes in Civil Engineering,
-vol 21. Springer, Cham. https://doi.org/10.1007/978-3-030-02707-0_65](https://link.springer.com/chapter/10.1007/978-3-030-02707-0_65)
+-	**Dhingra Arvind**, Sidhu Sukhjot, Day ahead forecasting in PSPCL, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
+
+- **Dhingra Arvind**, Singh Tejinder, Energy conservation for sustainable future, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17th-19th,2020.
+
+- **Dhingra Arvind**, Kumar Ashwani, Comparision & Validation of a real time Simulink model of induction furnace, Test Engineering & Management,(Scopus Indexed), Vol. 83, May-June,2020, pp 23561-23566
+
+- **Rupinderjit Singh** "Modelling and simulation smart grid system in simulink" LISD Conference January 12th 2020.
+
+- **Navneet Singh Bhangu**,   Application of Fault Tree Analysis for Evaluating Reliability: A Case Study of Gear Box of Wind Turbine, International Journal of Advanced Science and Technology Volume 29 Issue 3, March 2020, ISSN: 2005-4238 (Print), ISSN: 2207-6360 (Online), Pages: 4486-4492, SCOPUS Indexed Journal.
+
+- **Karanbir Singh**, **Kuldeep Singh** and **Amandeep Singh Ghatora** ,presented paper titled “Residential Load Profile Optimization using DSM by incorporating models of appliances”, in SDEI international conference September 17th -19th 2020.
+
+- **Karanbir Singh**, presented research paper titled  “Demand Side Management for cost and peak load optimization with load modelling”, in IEMERA in Imperial College, London, U.K from  March 26th-28th 2020.
+
+- **Gagandeep Kaur Gill** and **Rupinderjit Singh** presented paper titled “Bagasse congeneration plant efficiency improvement by using data envelopment analysis models"in SDEI international conference September. 17th -19th 2020.
+
+- **Arshdeep Kaur** and Dr. Y.S Brar , presented paper titled "Optimization of Power System Using Static Synchronous Compensator to Enhance Voltage Stability" in SDEI international conference September 17th -19th 2020.
 
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
@@ -46,31 +102,63 @@ vol 21. Springer, Cham. https://doi.org/10.1007/978-3-030-02707-0_65](https://li
 
 | Sr. No. | Name of Event                                                  | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
 |:--------|:---------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
-| 1       | SDT on "Efficient, Trackable and Sustainable Workflow" (Run-1) | Dr H S Rai & Er. Yuvraj Singh | One Week | 02-08 December, 2020  | TEQIP-III  |
-| 2       | SDT on "Efficient, Trackable and Sustainable Workflow" (Run-2) | Dr H S Rai & Er. Yuvraj Singh | One Week | 30 Dec - 05 Jan, 2020 | TEQIP-III  |
-|         |                                                                |                               |          |                       |            |
+| 1       |ICT enabled FDP on Energy Conservation and Management(Run-1) | Dr Arvind Dhingra | One Week | April 27- May 1, 2020.  | TEQIP-III  |
+| 2       | ICT enabled FDP on Energy Conservation and Management (Run-2) | Dr Arvind Dhingra | One Week | 04-08 May, 2020 | TEQIP-III  |
+
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:--------|:----------------|:--------------|:---------|:--------|:---------------------|
-| 1       |                 |               |          |         |                      |
-| 2       |                 |               |          |         |                      |
-|         |                 |               |          |         |                      |
+|1|Dr. Arvind Dhingra |  FDP   on Additive Manufacturing & Process optimization             |1 Week| April 9th-13th , 2020| NITTTR, Chandigarh |
+|2|Dr. Arvind Dhingra |  FDP on Green and Intelligent Buildings |1 Week |April 14th-18th,2020  | NITTTR, Chandigarh |
+|  3   |      Dr. Arvind Dhingra           |    FDP on Technological Advancement in Power System Control, Power Controllers, drives & E- Vehicles- TAPPAD2020           |     1 Week     |   April 27th- May 1st,2020      |               Dr NGP Institute of Technology, Coimbatore       |   
+|4|Dr. Arvind Dhingra|IGEN PIT FDP on Renewable Energy Systems	|1 Week|June 8-12th , 2020|The Institution of Green Engineers, Panimalar Institute of Technology, Chennai|
+| 5 |          Dr. Arvind Dhingra         |     TEQIP-III sponsored Efficient, trackable and sustainable workflow, Examination Branch          |     1 Week    |      December 2nd -7th, 2020    |           GNDEC, Ludhiana           |
+|6|Dr. Navneet Singh Bhangu|Energy Conservation and Management, TEQIP-III sponsored ICT enabled FDP|1 week|April 27 to May 1, 2020|EED at GNDEC, Ludhiana|
+|7|Dr. Navneet Singh Bhangu|Online AICTE Recognized FDP On	Waste Management|1 week| May 11th -15th 2020| Mechanical Engg. Deptt., NITTTR Chandigarh|
+|8|Dr. Navneet Singh Bhangu|Education 4.0: Reliability Centered Maintenance, Webinar|1 day|July 19th 2020 |School of Mechanical Engineering (SMEC) Vellore Institute of Technology, Chennai
+|9|Dr. Navneet Singh Bhangu|Professional Development Training Program for Faculty and Administrators of Project Institutions of TEQIP-III, National Project Implementation Unit, MHRD, Govt. of India|2 days|26 to 28 November 2020|Indian Institute of Management (IIM),Visakhapatnam
+|10|Dr. Navneet Singh Bhangu|Digital Transformation of Institutions of Higher Learning|1 week| December 1st -6th 2020| National Academy of Human Resource Development,New Delhi|
+|11|Er. Rupinderjit Singh|Education 4.0: Reliability Centered Maintenance, Webinar|1 day|19th July|School of Mechanical Engineering (SMEC) Vellore Institute of Technology, Chennai
+|12|Er. Rupinderjit Singh|Professional Development Training Program for Faculty and Administrators of Project Institutions of TEQIP-III, National Project Implementation Unit, MHRD, Govt. of India|2 days|26 to 28 November 2020|Indian Institute of Management (IIM),Visakhapatnam
+|13|Er. Rupinderjit Singh|
+|14|Er. Ravinder Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
+|15|Er. Samreet Kaur|AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|Two Weeks |October 26th to November 7th, 2020| Department Of Business Administration,GNDEC,Ludhiana||
+|16|Er. Karanbir Singh|FDP on “Advanced Optimization Techniques and hands-on with MATLAB/SCILAB”|2 Week|13 – 24 July 2020|Electronics and ICT Academies” by the Ministry of Electronics and Information Technology (MeitY), Government of India.|
+|17|Er. Karanbir Singh|Webinar on"Power Monitoring, Home Automation and Building Management System"|1 Week|June 29-3 July 2020|School of Electrical Engineering KIIT, Bubnehwar and Schneider electric india|
+|18|Er. Gagandeep Kaur Gill|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
+|19|Er. Gagandeep Kaur Gill|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner.
+|20|Er. Gagandeep Kaur Gill| Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration, GNDEC,Ludhiana|
+|21|Er. Bhawna|Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education |2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration,GNDEC,Ludhiana|
+|22|Er. Bhawna|  AICTE approved FDP course on "Electrical Vehicles ”|4 Week|January – March 2020| NPTEL Online Course.
+|22|Er. Arshdeep Kaur|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
+|23|Er. Arshdeep Kaur|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22th, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner|
+|24|Er. Arshdeep Kaur|One-week Online Short Term Training Program (STTP) on “Recent Trends in Instrumentation Engineering”|1 Week|September 7th-11th, 2020|Department of Electrical Engineering, NIT, Uttarakhand and Department of Electrical & Instrumentation Engineering, SLIET Longowal, Punjab
+|25|Er. Arshdeep Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
+|26|Er. Arshdeep Kaur|  AICTE approved FDP course on "Introduction to smart grids ”|8 Week|September 14th-December 18th, 2020| NPTEL Online Course
 
-## Miscellaneous (Lab Upgradation, Infrastructure augmentation etc.)  
-
-- (You can add any miscellaneous details related to your department here which you feel should be added in Newsletter)
-
-## Student's Corner  
-
-#### - Student's Achievements
-
-## Association of Civil Engineering students (ACES)
-
-- (Here you can add news/details of events conducted etc., related to your departmental Society). *DO NOT forget to replace the title with the name of your departmental Society*
 
 
+### - Student's Corner  
 
-**NOTE:** Feel free to add any other information in the form of paragraph, bulleted list, numbered list, etc. For any queries or help, post in Whatsapp group. **And do not forget to delete this note. ;-)**
+![project](Images/PRJ.JPEG)
+
+ **Sukhchain Singh** (D3EE) made project "**2 meter waring system** for staff who is on COVID -19 Government Duty under the guidance of **Pf. Gagandeep Singh Sodhi**
+
+
+### - Student's Achievements
+
+Project filed for Patent in December 2020.
+
+- **1.Abhishek Goyal, Gurpartap Singh, Kunal Singla and Mainik Walia**
+ made the project "Sky Robot" under the guidance of **Dr. Arvind Dhingra** .This robot is to help maintain a vigil against unwanted intruders. The robot is so designed so as to work effectively during day and night with same efficiency. The robot is capable of sending an alarm in case of any unwanted activity. This will help our soldiers guarding our borders to maintain effective vigil.
+
+- **2. Santokh Singh, Sapandeep Singh,Simranjeet Singh and Harpreet Singh** made the project "Palace Power Saver" under the guidance of **Pf. Arshdeep Kaur**. One of the major reason for designing this project, is the wastage of electricity especially at palaces, libraries, hostels, hotels, cinemas, parking and offices, where no one take responsibility to switch off the electrical equipment. This project is based on an intelligent electricity system which  automatically switched off the light/equipment when the room will empty.
+
+![project](Images/ADK.JPG)
+**Project: Palace Power Saver**
+
+### Electrical Engineering Staff and Students (E2S2)
+ - Organised online quiz " **MIND MANTRA** " Coordinated by Dr.Arvind Dhingra, Pf.Gagandeep Kaur Gill and Pf.Amandeep Singh on July 2020.
