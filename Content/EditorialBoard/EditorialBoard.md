@@ -11,7 +11,7 @@
 - Er. Navneet Singh (CE)
 - Er. Prem Singh (ME)
 - Er. Gulraj Singh (PE)
-- Er. Harleen Kaur (EE)
+- Er. Karanbir Singh (EE)
 - Er. Preeti Pannu (ECE)
 - Dr. Amit Jain (CSE)
 - Er. Harpreet Kaur (IT)
