@@ -12,9 +12,7 @@ Head of Department
 ![aks](Images/aks.jpg)
 
 
-
 ## Department at Glimpse
-
 
 - **Webinar Lecture Series on "Information Security"**
 
