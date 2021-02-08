@@ -1,18 +1,18 @@
 # Athletic Meet-2020
 
-![1](Images/Ath/1.JPG)
+![1](Images/Ath/1.jpg)
 
-![1](Images/Ath/2.JPG)
+![1](Images/Ath/2.jpg)
 
-![1](Images/Ath/3.JPG)
+![1](Images/Ath/3.jpg)
 
-![1](Images/Ath/4.JPG)
+![1](Images/Ath/4.jpg)
 
-![1](Images/Ath/5.JPG)
+![1](Images/Ath/5.jpg)
 
 ![1](Images/Ath/6.JPG)
 
-![1](Images/Ath/7.JPG)
+![1](Images/Ath/7.jpg)
 
 ![1](Images/Ath/8.JPG)
 
