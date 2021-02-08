@@ -2,7 +2,7 @@
 
 ## Message from HoD's Desk
 
-![KDS](Images/KDS.png)
+![KDS](Images/KDS.PNG)
 
 Technical education blended with ethics and quality comprises of one of the most powerful tools, which gives shape to the coming generations. We at Guru Nanak Dev Engineering College, Ludhiana are trying our level best to make optimized utilization of modern tools and techniques, so that quality technical education can come within the reach of the large masses of India with convenience and affordability.
 I am very hopeful that the publishing of the present College Newsletter will showcase our valuable achievements to the world, which the students and staff have made in spite of all the past and ongoing natural and man-made hurdles.
@@ -45,13 +45,13 @@ Singh who appreciated the efforts of the department for organizing such an event
 
 ![KDS](Images/ALL.JPG)
 
-![KDS](Images/SAB.JPG)
+![KDS](Images/SAB.jpg)
 
 
-![KDS](Images/RS.JPG)
+![KDS](Images/RS.jpg)
 (**Pf.Rupinderjit Singh** attended LISD Conference Jan 2020)
 
-![KDS](Images/AR.JPG)
+![KDS](Images/AR.jpg)
 ( **Pf. Arvind Dhingra and Pf. Rupinderjit Singh** attended TEQIP-3 Sponsored Faculty Development Programme on "Biomass to energy and other value added products" at IIT Delhi)
 
 ![KDS](Images/AGS.JPG)
@@ -141,14 +141,14 @@ Systems and Clean Energy (Science Citation Index Expanded, ISSN: 2196-5625/ e-IS
 
 
 
-### - Student's Corner  
+## Student's Corner  
 
-![project](Images/PRJ.JPEG)
+![project](Images/PRJ.jpeg)
 
  **Sukhchain Singh** (D3EE) made project "**2 meter waring system** for staff who is on COVID -19 Government Duty under the guidance of **Pf. Gagandeep Singh Sodhi**
 
 
-### - Student's Achievements
+### Student's Achievements
 
 Project filed for Patent in December 2020.
 
@@ -157,7 +157,7 @@ Project filed for Patent in December 2020.
 
 - **2. Santokh Singh, Sapandeep Singh,Simranjeet Singh and Harpreet Singh** made the project "Palace Power Saver" under the guidance of **Pf. Arshdeep Kaur**. One of the major reason for designing this project, is the wastage of electricity especially at palaces, libraries, hostels, hotels, cinemas, parking and offices, where no one take responsibility to switch off the electrical equipment. This project is based on an intelligent electricity system which  automatically switched off the light/equipment when the room will empty.
 
-![project](Images/ADK.JPG)
+![project](Images/ADK.jpg)
 **Project: Palace Power Saver**
 
 ### Electrical Engineering Staff and Students (E2S2)
