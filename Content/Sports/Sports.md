@@ -4,7 +4,7 @@
 
 ![GB](Images/gunjan.jpg)
 
-The Sports department works on promotion of personal and professional development of students through designing and implementing programs that support healthy lifestyles and inculcate moral,ethical and spiritual values among them through intra-mural and extra-mural activities.Thus,all students must actively take part in sports activities offered by the college within the campus.
+The Sports department works on promotion of personal and professional development of students through designing and implementing programs that support healthy lifestyles and inculcate moral, ethical and spiritual values among them through intra-mural and extra-mural activities. Thus, all students must actively take part in sports activities offered by the college within the campus.
 **"Stay Active Stay Fit"**
 
 ## Sport's Committee
@@ -19,7 +19,7 @@ The Sports department works on promotion of personal and professional developmen
 
 ## Achievements  
 
-- The college won **IKG PTU Over All Combined Championship Trophy** both in session 2018-19 &19-20.Rs.2 lac for each session was awarded consecutively by IKGPTU, Kapurthala for this outstanding achievements. The college is reigning this Trophy from the last 17 years consecutively. 
+- The college won **IKG PTU Over All Combined Championship Trophy** both in session 2018-19 &19-20.Rs.2 lac for each session was awarded consecutively by IKGPTU, Kapurthala for this outstanding achievements. The college is reigning this Trophy from the last 17 years consecutively.
 
 
 ![1](Images/overall.JPG)
