@@ -169,6 +169,7 @@ Coursera on29 November, 2020.
 ![p](Images/p.jpg)
 ![h](Images/h.jpg)
 ![m](Images/m.jpg)
+
 - **Priyanka Sroya**, 2nd year student secured 2nd position in Poster making contest held from 19-21 June, 2020 organized by Civil Department.
 - **Harnoor Singh**, 2nd year student got 3rd prize in Western Singing solo competition in Anand Utsav 2020 held on 5-7 March, 2020.
 - **Mandip Dhaliwal**, final year student got placed in Samsung Company with a package of 12Lakhs.
