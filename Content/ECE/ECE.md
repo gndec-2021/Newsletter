@@ -1,10 +1,13 @@
 # Department of Electronics and Communication Engineering Engineering  
 
 ## Message from HoD's Desk
-The Department of Electronics and Communication Engineering, established in 1981, is one of the most dynamic departments of Guru Nanak Dev Engineering College. It was the first major diversification initiative by the college, 25 years after its establishment. The department is currently running Bachelors and Masters of Technology courses in Electronics and Communication Engineering. Ever since its inception, the department has been the hub of academic excellence through some great teachers who have laid a sound foundation as well as the cream of students of the region, who have spread their wings all over the globe. The alumni of the department are not only excelling in India but also in the Silicon Valley and other hubs of Electronics Technology. They are at the forefront of the Telecom revolution and manning pivotal positions in Telecom operators in India, South East Asia, Pacific region and Africa. In the end, I can say we incorporate good technical skills and knowledge to each individual associated with us.
+The Department of Electronics and Communication Engineering, established in 1981, is one of the most dynamic departments of Guru Nanak Dev Engineering College. It was the first major diversification initiative by the college, 25 years after its establishment. The department is currently running Bachelors and Masters of Technology courses in Electronics and Communication Engineering and has around 10 scholars enrolled for doctorate in areas like Antenna Design, VLSI, Optical communication etc. Ever since its inception, the department has been the hub of academic excellence through some great teachers who have laid a sound foundation as well as the cream of students of the region, who have spread their wings all over the globe. The alumni of the department are not only excelling in India but also in the Silicon Valley and other hubs of Electronics Technology. They are at the forefront of the Telecom revolution of the last 20 years and manning pivotal positions in Telecom operators in India, South East Asia, Pacific region and Africa.
 
-Prof. Ameeta Seehra
-(Head of Department)
+In the last few years, as a part of an academically autonomous system, the department has taken numerous quality initiatives including revamping of syllabi so that it is in tune with the outcome based system as proposed in the Washington Accord. I urge the current students to be worthy emulators of the legacy of their seniors for the glory of their Institute.
+
+Prof. Ameeta Seehra  
+
+Head of Department
 
 ![aks](Images/aks.jpg)
 
