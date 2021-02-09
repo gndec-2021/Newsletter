@@ -1,15 +1,14 @@
 # Department of Electronics and Communication Engineering Engineering  
 
-## Message from HoD's Desk
-The Department of Electronics and Communication Engineering, established in 1981, is one of the most dynamic departments of Guru Nanak Dev Engineering College. It was the first major diversification initiative by the college, 25 years after its establishment. The department is currently running Bachelors and Masters of Technology courses in Electronics and Communication Engineering and has around 10 scholars enrolled for doctorate in areas like Antenna Design, VLSI, Optical communication etc. Ever since its inception, the department has been the hub of academic excellence through some great teachers who have laid a sound foundation as well as the cream of students of the region, who have spread their wings all over the globe. The alumni of the department are not only excelling in India but also in the Silicon Valley and other hubs of Electronics Technology. They are at the forefront of the Telecom revolution of the last 20 years and manning pivotal positions in Telecom operators in India, South East Asia, Pacific region and Africa.
+## Message from HoD's Desk  
 
-In the last few years, as a part of an academically autonomous system, the department has taken numerous quality initiatives including revamping of syllabi so that it is in tune with the outcome based system as proposed in the Washington Accord. I urge the current students to be worthy emulators of the legacy of their seniors for the glory of their Institute.
-
-Prof. Ameeta Seehra  
-
-Head of Department
 
 ![aks](Images/aks.jpg)
+
+The Department of Electronics and Communication Engineering, established in 1981, is one of the most dynamic departments of Guru Nanak Dev Engineering College. It was the first major diversification initiative by the college, 25 years after its establishment. The department is currently running Bachelors and Masters of Technology courses in Electronics and Communication Engineering and has around 10 scholars enrolled for doctorate in areas like Antenna Design, VLSI, Optical communication etc. Ever since its inception, the department has been the hub of academic excellence through some great teachers who have laid a sound foundation as well as the cream of students of the region, who have spread their wings all over the globe. The alumni of the department are not only excelling in India but also in the Silicon Valley and other hubs of Electronics Technology. They are at the forefront of the Telecom revolution of the last 20 years and manning pivotal positions in Telecom operators in India, South East Asia, Pacific region and Africa. In the end, I can say that we incorporate good technical skills and knowledge to each individual associated with us.
+
+Prof. Ameeta Seehra  
+Head of Department
 
 
 ## Department at Glimpse
@@ -22,7 +21,6 @@ Dr. Harsimranjit Singh Gill(Coordinator)
 
 Under the NPIU program, “Train-the-Trainer”, 4-week job-oriented training programme titled “Webinar Lecture Series on Information Security” sponsored by TEQIP-III was organized for the students of ECE, IT, and CSE from 02-11-2020 to 27-11-2020.
 The main aim of the training programme was to spread awareness and motivate students to learn, work, and contribute in the field of cyber security. Apart from discussion of theoretical concepts of information security, hands-on-training session were also conducted to comprehend the prominent areas of field.
-
 
 - **Project on "Automatic hand sanitizer dispenser"**
 
@@ -41,43 +39,43 @@ Features include:
 
 ## Faculty Achievements  
 
-- Harleen Kaur completed ""Python Basics"" an online course authorized by University of Michigan and offered through
+- **Harleen Kaur** completed ""Python Basics"" an online course authorized by University of Michigan and offered through
 Coursera on29 November, 2020.
 
-- Daljit Singh qualified Java Level-1 Exam conducted on April 03, 2020, and Java Level-2 Exam conducted on April 13, 2020, by Cambridge Certification Authority (CCA).
+- **Daljit Singh** qualified Java Level-1 Exam conducted on April 03, 2020, and Java Level-2 Exam conducted on April 13, 2020, by Cambridge Certification Authority (CCA).
 
-- Daljit Singh completed Online Courses on Sololearn on April 13, 2020: Java Course, and two courses on Udemy on Aug 10, 2019: Learn to Program in Java Script and on March 31, 2020: Introduction to Python Programming.
+- **Daljit Singh** completed Online Courses on Sololearn on April 13, 2020: Java Course, and two courses on Udemy on Aug 10, 2019: Learn to Program in Java Script and on March 31, 2020: Introduction to Python Programming.
 
-- Daljit Singh completed Online Course on Coursera on April 20, 2020: Build Your First App (Project-Centered Course).
+- **Daljit Singh** completed Online Course on Coursera on April 20, 2020: Build Your First App (Project-Centered Course).
 
-- Daljit Singh build triviamaster.000webhost.com Quiz Website using JavaScript, developed & designed Android App "Know Your Student: KYS" using Google's Android Studio, and completed "MATLAB Onramp" course on Mathworks on 17 Dec.2020.
+- **Daljit Singh** build triviamaster.000webhost.com Quiz Website using JavaScript, developed & designed Android App "Know Your Student: KYS" using Google's Android Studio, and completed "MATLAB Onramp" course on Mathworks on 17 Dec.2020.
 
 ## Publications  
 
-- Pannu Preeti, “A Compact 2-Port Ultra-Wideband MIMO Antenna With Modified Ground Plane,” Fourth International Conference on Inventive Systems and Control (ICISC), included in IEEE explore, pp. 553-557, 2020. DOI: 10.1109/ICISC47916.2020.9171054
+- **Preeti Pannu**, “A Compact 2-Port Ultra-Wideband MIMO Antenna With Modified Ground Plane,” Fourth International Conference on Inventive Systems and Control (ICISC), included in IEEE explore, pp. 553-557, 2020. DOI: 10.1109/ICISC47916.2020.9171054
 
-- Pannu Preeti, “UWB-MIMO Antenna With Stop Band behavior and High Isolation”, IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), 2020.(in print)
+- **Preeti Pannu**, “UWB-MIMO Antenna With Stop Band behavior and High Isolation”, IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), 2020.(in print)
 
-- Singh Shivmanmeet, Narwant Singh Grewal (2020), "A Review on Visible Light Communication", in Proceeding of 8th International Conference on Advancements in Engineering and Technology, (ICAET-2020)- BGIET, Sangrur, pp.- 88-93
+- **Shivmanmeet Singh**, **Narwant Singh Grewal** (2020), "A Review on Visible Light Communication", in Proceeding of 8th International Conference on Advancements in Engineering and Technology, (ICAET-2020)- BGIET, Sangrur, pp.- 88-93
 
-- Kaur H. , Grewal Narwant Singh (2020), "Visible Light Communication Indoor Systems - An Overview", in Proceeding of 8th International Conference on Advancements in Engineering and Technology, (ICAET-2020)- BGIET, Sangrur, pp. 121-125
+- Kaur H. , **Narwant Singh Grewal** (2020), "Visible Light Communication Indoor Systems - An Overview", in Proceeding of 8th International Conference on Advancements in Engineering and Technology, (ICAET-2020)- BGIET, Sangrur, pp. 121-125
 
-- Navneet Kaur, "Temperature Dependence of of Multi-fin FinFET for Bulk and SOI Substrate at 20nm Channel "Length", International Congress on Sustainable Development through Engineering Innovations at GNDEC, Ludhiana from 17-19 September, 2020
+- **Navneet Kaur**, "Temperature Dependence of of Multi-fin FinFET for Bulk and SOI Substrate at 20nm Channel "Length", International Congress on Sustainable Development through Engineering Innovations at GNDEC, Ludhiana from 17-19 September, 2020
 
-- Navneet Kaur, "Performance evaluation of various hybrid modulation techniques transmitted by EDFA in radio-over-fibre communication", Journal of Information and Telecommunication, 4:3, 295-313, DOI: 10.1080/24751839.2020.1732766
+- **Navneet Kaur**, "Performance evaluation of various hybrid modulation techniques transmitted by EDFA in radio-over-fibre communication", Journal of Information and Telecommunication, 4:3, 295-313, DOI: 10.1080/24751839.2020.1732766
 
-- Kuldeepak Singh, Harsimranjit Singh Gill
+- **Kuldeepak Singh**, **Harsimranjit Singh Gill**
 ,"Chaos-based joint speech encryption scheme using SHA-1". Multimedia Tools and Applications. https://doi.org/10.1007/s11042-020-10223-x
 
-- Gurpreet Kaur, Simranjit Kaur, B.S. Dhaliwal, Suman Pattnaik, "Low-Cost Fractal MIMO Antenna Design for ISM Band Using ANN", Book Chapter- Advances in computational intelligence techniques, Springer, DOI: https://doi.org/10.1007/978-981-15-2620-6_15
+- Gurpreet Kaur, **Simranjit Kaur**, **B.S. Dhaliwal**, **Suman Pattnaik**, "Low-Cost Fractal MIMO Antenna Design for ISM Band Using ANN", Book Chapter- Advances in computational intelligence techniques, Springer, DOI: https://doi.org/10.1007/978-981-15-2620-6_15
 
-- Kaur, Gurpurneet, Gill, Sandeep Singh and Rattan, Munish (2020), “Design and Performance Analysis of FinFET Based SRAM Cell Stability”, in Proc. Of Sustainable Development through Engineering Innovations (SDEI-2020), Ludhiana,India, Sept., 2020. [ a part of book series Lecture note in Civil Engineering, springer)
+- **Gurpurneet Kaur**, **Sandeep Singh Gill** and **Munish Rattan** (2020), “Design and Performance Analysis of FinFET Based SRAM Cell Stability”, in Proc. Of Sustainable Development through Engineering Innovations (SDEI-2020), Ludhiana,India, Sept., 2020. [ a part of book series Lecture note in Civil Engineering, springer)
 
-- Kaur, Gurpurneet, Gill, Sandeep Singh and Rattan, Munish (2020), “Whale Optimization Algorithm for Performance Improvement of Silicon-On-Insulator FinFETs”, International Journal of Artificial Intelligence, Vol.18, number 1, pp.63-81, March, 2020
+- **Gurpurneet Kaur**, **Sandeep Singh Gill** and **Munish Rattan** (2020), “Whale Optimization Algorithm for Performance Improvement of Silicon-On-Insulator FinFETs”, International Journal of Artificial Intelligence, Vol.18, number 1, pp.63-81, March, 2020
 
-- Kaur, Gurpurneet, Gill, Sandeep Singh and Rattan, Munish (2020), “Artificial Intelligence Based Nanoscale FINFET Device ", Journal of Seybold Report, Vol. 15, Issue 9, September, 2020
+- **Gurpurneet Kaur**, **Sandeep Singh Gill** and **Munish Rattan** (2020), “Artificial Intelligence Based Nanoscale FINFET Device ", Journal of Seybold Report, Vol. 15, Issue 9, September, 2020
 
-- Kaur, Gurpurneet, Gill, Sandeep Singh and Rattan, Munish (2020), “Impact of Lanthanum Doped Zirconium Oxide (LaZrO2) Gate Dielectric Material On FinFET inverter”, International Journal on Smart Sensing and Intelligent Systems, Vol.13, issue 1, pp.1-10, 2020
+- **Gurpurneet Kaur**, **Sandeep Singh Gill** and **Munish Rattan** (2020), “Impact of Lanthanum Doped Zirconium Oxide (LaZrO2) Gate Dielectric Material On FinFET inverter”, International Journal on Smart Sensing and Intelligent Systems, Vol.13, issue 1, pp.1-10, 2020
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
@@ -163,21 +161,26 @@ Coursera on29 November, 2020.
 
 ## Expert Lecture delivered
 
-- Gurjot Kaur delivered a Guest Lecture on "VHDL" on September 11,2020 for students of ECE and EEE of Gulzar Group of Institutes, Khanna.
-- Navneet Kaur delivered expert lecture on “Futuristic transistor structures in VLSI industry” on 10.06.2020 during one week IEEE Lecture series on Technology for Sustainability organized by Electrical Engineering Department, GNDEC Ludhiana
+- **Gurjot Kaur** delivered a Guest Lecture on "VHDL" on September 11,2020 for students of ECE and EEE of Gulzar Group of Institutes, Khanna.
+- **Navneet Kaur** delivered expert lecture on “Futuristic transistor structures in VLSI industry” on 10.06.2020 during one week IEEE Lecture series on Technology for Sustainability organized by Electrical Engineering Department, GNDEC Ludhiana
 
 ## Student's Corner  
 
 #### - Student's Achievements
 
-- Priyanka Sroya, 2nd year student secured 2nd position in Poster making contest held from 19-21 June, 2020 organized by Civil Department.
-- Harnoor Singh, 2nd year student got 3rd prize in Western Singing solo competition in Anand Utsav 2020 held on 5-7 March, 2020.
-- Mandip Dhaliwal, final year student got placed in Samsung Company with a package of 12Lakhs.
+![p](Images/p.jpg)
+![h](Images/h.jpg)
+![m](Images/m.jpg)
+
+- **Priyanka Sroya**, 2nd year student secured 2nd position in Poster making contest held from 19-21 June, 2020 organized by Civil Department.
+- **Harnoor Singh**, 2nd year student got 3rd prize in Western Singing solo competition in Anand Utsav 2020 held on 5-7 March, 2020.
+- **Mandip Dhaliwal**, final year student got placed in Samsung Company with a package of 12Lakhs.
+
 
 ## IETE STUDENT FORUM
 
 ![1](Images/1.jpg)
 
--'BRAIN BOOMERANG'   
+**BRAIN BOOMERANG**   
 
 An online inter-class quiz competition for ECE students on Zoom platform held on 22-sept, 2020 for 2nd year students, 23-sept,2020 for 3rd year students and 24-sept, 2020 for final year students.
