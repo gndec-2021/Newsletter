@@ -1,15 +1,14 @@
 # Department of Electronics and Communication Engineering Engineering  
 
-## Message from HoD's Desk
-The Department of Electronics and Communication Engineering, established in 1981, is one of the most dynamic departments of Guru Nanak Dev Engineering College. It was the first major diversification initiative by the college, 25 years after its establishment. The department is currently running Bachelors and Masters of Technology courses in Electronics and Communication Engineering and has around 10 scholars enrolled for doctorate in areas like Antenna Design, VLSI, Optical communication etc. Ever since its inception, the department has been the hub of academic excellence through some great teachers who have laid a sound foundation as well as the cream of students of the region, who have spread their wings all over the globe. The alumni of the department are not only excelling in India but also in the Silicon Valley and other hubs of Electronics Technology. They are at the forefront of the Telecom revolution of the last 20 years and manning pivotal positions in Telecom operators in India, South East Asia, Pacific region and Africa.
+## Message from HoD's Desk  
 
-In the last few years, as a part of an academically autonomous system, the department has taken numerous quality initiatives including revamping of syllabi so that it is in tune with the outcome based system as proposed in the Washington Accord. I urge the current students to be worthy emulators of the legacy of their seniors for the glory of their Institute.
-
-Prof. Ameeta Seehra  
-
-Head of Department
 
 ![aks](Images/aks.jpg)
+
+The Department of Electronics and Communication Engineering, established in 1981, is one of the most dynamic departments of Guru Nanak Dev Engineering College. It was the first major diversification initiative by the college, 25 years after its establishment. The department is currently running Bachelors and Masters of Technology courses in Electronics and Communication Engineering and has around 10 scholars enrolled for doctorate in areas like Antenna Design, VLSI, Optical communication etc. Ever since its inception, the department has been the hub of academic excellence through some great teachers who have laid a sound foundation as well as the cream of students of the region, who have spread their wings all over the globe. The alumni of the department are not only excelling in India but also in the Silicon Valley and other hubs of Electronics Technology. They are at the forefront of the Telecom revolution of the last 20 years and manning pivotal positions in Telecom operators in India, South East Asia, Pacific region and Africa. In the end, I can say that we incorporate good technical skills and knowledge to each individual associated with us.
+
+Prof. Ameeta Seehra  
+Head of Department
 
 
 ## Department at Glimpse
@@ -182,6 +181,6 @@ Coursera on29 November, 2020.
 
 ![1](Images/1.jpg)
 
--'BRAIN BOOMERANG'   
+**BRAIN BOOMERANG**   
 
 An online inter-class quiz competition for ECE students on Zoom platform held on 22-sept, 2020 for 2nd year students, 23-sept,2020 for 3rd year students and 24-sept, 2020 for final year students.
