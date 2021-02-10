@@ -18,7 +18,7 @@
 - Dr. Navdeep Kaur (MBA)
 -  --------------  (MCA)
 - Er. Ramandeep Kaur (App. Sci.)
-- Ms. Navjot Kaur (SoA)
+- Ar. Navjot Kaur (SoA)
 - Dr. Gunjan Bhardwaj (Sports)
 - Er. Lakhveer Singh Khana (NPTEL)
 - Er. Sachin Bagga (T&P)
