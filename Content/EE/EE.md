@@ -51,11 +51,18 @@ Singh who appreciated the efforts of the department for organizing such an event
 ![KDS](Images/RS.jpg)
 (**Pf.Rupinderjit Singh** attended LISD Conference Jan 2020)
 
-![KDS](Images/AR.jpg)
-( **Pf. Arvind Dhingra and Pf. Rupinderjit Singh** attended TEQIP-3 Sponsored Faculty Development Programme on "Biomass to energy and other value added products" at IIT Delhi)
+![UK](Images/1.jpeg)
+( **Pf. Rupinderjit Singh** at Oxford, Oxfordshire foreign dignitaries )
+
+![IITD](Images/2.jpeg)
+( **Pf.Arvind Dhingra  and pf. Rupinderjit Singh** at IIT Delhi attended TEQIP-3 sponsored program on "Biomass to Energy and other value added products" at IIT Delhi from 25 th Nov  )
+
+![UK](Images/3.jpeg)
+( **Pf. Rupinderjit Singh** at IIT Delhi )
+
 
 ![KDS](Images/AGS.JPG)
-(**Pf. Arshdeep Kaur, Pf. Gagandeep Kaur Gill and Pf. Sonia Grover**  attended TEQIP-3 Sponsored Faculty Development Programme on "Machine learning for Engineering Application" at IIT Delhi)
+(**Pf. Arshdeep Kaur, Pf. Gagandeep Kaur Gill and Pf. Sonia Grover** ) attended TEQIP-3 Sponsored Faculty Development Programme on "Machine learning for Engineering Application" at IIT Delhi)
 
 
 
@@ -84,7 +91,7 @@ Systems and Clean Energy (Science Citation Index Expanded, ISSN: 2196-5625/ e-IS
 
 - **Dhingra Arvind**, Kumar Ashwani, Comparision & Validation of a real time Simulink model of induction furnace, Test Engineering & Management,(Scopus Indexed), Vol. 83, May-June,2020, pp 23561-23566
 
-- **Rupinderjit Singh** "Modelling and simulation smart grid system in simulink" LISD Conference January 12th 2020.
+- **Rupinderjit Singh** "Modelling and simulation smart grid system in simulink" LISD Conference and published in Journal of OXFORD UNIVERSITY (UK) Library January 12th 2020.
 
 - **Navneet Singh Bhangu**,   Application of Fault Tree Analysis for Evaluating Reliability: A Case Study of Gear Box of Wind Turbine, International Journal of Advanced Science and Technology Volume 29 Issue 3, March 2020, ISSN: 2005-4238 (Print), ISSN: 2207-6360 (Online), Pages: 4486-4492, SCOPUS Indexed Journal.
 
@@ -123,21 +130,24 @@ Systems and Clean Energy (Science Citation Index Expanded, ISSN: 2196-5625/ e-IS
 |10|Dr. Navneet Singh Bhangu|Digital Transformation of Institutions of Higher Learning|1 week| December 1st -6th 2020| National Academy of Human Resource Development,New Delhi|
 |11|Er. Rupinderjit Singh|Education 4.0: Reliability Centered Maintenance, Webinar|1 day|19th July|School of Mechanical Engineering (SMEC) Vellore Institute of Technology, Chennai
 |12|Er. Rupinderjit Singh|Professional Development Training Program for Faculty and Administrators of Project Institutions of TEQIP-III, National Project Implementation Unit, MHRD, Govt. of India|2 days|26 to 28 November 2020|Indian Institute of Management (IIM),Visakhapatnam
-|13|Er. Rupinderjit Singh|
-|14|Er. Ravinder Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
-|15|Er. Samreet Kaur|AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|Two Weeks |October 26th to November 7th, 2020| Department Of Business Administration,GNDEC,Ludhiana||
-|16|Er. Karanbir Singh|FDP on “Advanced Optimization Techniques and hands-on with MATLAB/SCILAB”|2 Week|13 – 24 July 2020|Electronics and ICT Academies” by the Ministry of Electronics and Information Technology (MeitY), Government of India.|
-|17|Er. Karanbir Singh|Webinar on"Power Monitoring, Home Automation and Building Management System"|1 Week|June 29-3 July 2020|School of Electrical Engineering KIIT, Bubnehwar and Schneider electric india|
-|18|Er. Gagandeep Kaur Gill|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
-|19|Er. Gagandeep Kaur Gill|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner.
-|20|Er. Gagandeep Kaur Gill| Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration, GNDEC,Ludhiana|
-|21|Er. Bhawna|Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education |2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration,GNDEC,Ludhiana|
-|22|Er. Bhawna|  AICTE approved FDP course on "Electrical Vehicles ”|4 Week|January – March 2020| NPTEL Online Course.
-|22|Er. Arshdeep Kaur|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
-|23|Er. Arshdeep Kaur|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22th, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner|
-|24|Er. Arshdeep Kaur|One-week Online Short Term Training Program (STTP) on “Recent Trends in Instrumentation Engineering”|1 Week|September 7th-11th, 2020|Department of Electrical Engineering, NIT, Uttarakhand and Department of Electrical & Instrumentation Engineering, SLIET Longowal, Punjab
-|25|Er. Arshdeep Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
-|26|Er. Arshdeep Kaur|  AICTE approved FDP course on "Introduction to smart grids ”|8 Week|September 14th-December 18th, 2020| NPTEL Online Course
+|13|Er. Ravinder Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
+|14|Er. Samreet Kaur|AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|Two Weeks |October 26th to November 7th, 2020| Department Of Business Administration,GNDEC,Ludhiana||
+|15|Er. Amandeep Singh|FDP on “Advanced Optimization Techniques and hands-on with MATLAB/SCILAB”|2 Week|13 – 24 July 2020|Electronics and ICT Academies” by the Ministry of Electronics and Information Technology (MeitY), Government of India.|
+|16|Er.Amandeep Singh|Webinar on"Power Monitoring, Home Automation and Building Management System"|1 Week|June 29-3 July 2020|School of Electrical Engineering KIIT, Bubnehwar and Schneider electric india|
+|17| Er. Amandeep Singh|Webinar on ABB Heavy Vehicle Charging|1 Day|July 7th 2020|ABB Australia|
+|18|Er. Amandeep Singh|Electric Vehicle:New Trends and Technologies|1 Week| 22-26 June 2020|ABES Engineering College, Ghaziabad|
+|19|Er. Karanbir Singh|FDP on “Advanced Optimization Techniques and hands-on with MATLAB/SCILAB”|2 Week|13 – 24 July 2020|Electronics and ICT Academies” by the Ministry of Electronics and Information Technology (MeitY), Government of India.|
+|20|Er. Karanbir Singh|Webinar on"Power Monitoring, Home Automation and Building Management System"|1 Week|June 29-3 July 2020|School of Electrical Engineering KIIT, Bubnehwar and Schneider electric india|
+|21|Er. Gagandeep Kaur Gill|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
+|22|Er. Gagandeep Kaur Gill|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner.
+|23|Er. Gagandeep Kaur Gill| Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration, GNDEC,Ludhiana|
+|24|Er. Bhawna|Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education |2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration,GNDEC,Ludhiana|
+|25|Er. Bhawna|  AICTE approved FDP course on "Electrical Vehicles ”|4 Week|January – March 2020| NPTEL Online Course.
+|26|Er. Arshdeep Kaur|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
+|27|Er. Arshdeep Kaur|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22th, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner|
+|28|Er. Arshdeep Kaur|One-week Online Short Term Training Program (STTP) on “Recent Trends in Instrumentation Engineering”|1 Week|September 7th-11th, 2020|Department of Electrical Engineering, NIT, Uttarakhand and Department of Electrical & Instrumentation Engineering, SLIET Longowal, Punjab
+|29|Er. Arshdeep Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
+|30|Er. Arshdeep Kaur|  AICTE approved FDP course on "Introduction to smart grids ”|8 Week|September 14th-December 18th, 2020| NPTEL Online Course
 
 
 
