@@ -2,7 +2,7 @@
 
 ## Message from HoD's Desk
 <p align=justify>
-  ![aces](Images/HSR.JPG)
+  ![SDT](Images/HSR.JPG)
 It is heartening to note that “Newsletter” is being published on-line, which will be a compilation of all achievements of various departments / sections. The efforts of the Editorial Team is highly appreciable and I wish to put it on record. Congratulations to all members of the Editorial Team for bringing this “Newsletter” in an excellent present form using the latest technologies suitable for such team work.
 
 Our vision is to develop constructive thinking and analytical capabilities of every student.
@@ -39,7 +39,7 @@ During the valedictory function, feedback from participants was taken. The parti
 <p align=justify>
 
 - Er. Heena Malhotra completed her PhD in June, 2020 from PUNJAB ENGINEERING COLLEGE Chandigarh on  Topic "A STUDY ON BEHAVIOUR OF GRANULAR ANCHOR PILE FOUNDATION SUBJECTED TO UPLIFT LOADS"
-- BEST PAPER AWARD "Sonia Chutani, **Dr. Jagbir Singh**" (2020). Use of Constriction factor based particle swarm optimization in design of reinforced concrete beams.(2020)  Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-15-9554-7
+- BEST PAPER AWARD "Sonia Chutani, **Dr. Jagbir Singh**" (2020). Use of Constriction factor based particle swarm optimization in design of reinforced concrete beams.(2020)  Sustainable Development through Engineering Innovations:Proceedings. doi: 10.1007/978-981-15-9554-7
 </p>
 
 ## Publications  
@@ -92,7 +92,7 @@ During the valedictory function, feedback from participants was taken. The parti
 
 - [**Heena Malhotra**, Sanjay Kumar Singh (2020) Study on effect of encasing on pull-out response of granular anchor pile foundation. Arab J Geosci 13, 481  https://doi.org/10.1007/s12517-020-05499-0](https://link.springer.com/article/10.1007/s12517-020-05499-0)
 
--[**Heena Malhotra**, Sanjay Kumar Singh (2020).Experimental and Numerical Studies on Pull-out Behavior of Granular Anchor Pile Foundation Embedded in Sandy Soil. Arab J Sci Engg.https://doi.org/10.1007/s13369-020-05013-4](https://link.springer.com/article/10.1007/s13369-020-05013-4)
+- [**Heena Malhotra**, Sanjay Kumar Singh (2020).Experimental and Numerical Studies on Pull-out Behavior of Granular Anchor Pile Foundation Embedded in Sandy Soil. Arab J Sci Engg.https://doi.org/10.1007/s13369-020-05013-4](https://link.springer.com/article/10.1007/s13369-020-05013-4)
 
 - [**Heena Malhotra**, Sanjay Kumar Singh (2021) Ground Improvement by Granular Anchor Pile Foundation in Cohesive Soil under Axial Pull-Out Loads. Geotechnics for Infrastructure Development & UrbaniSation (GeoINDUS)  https://doi.org/10.1007/978-981-33-6590-2](https://link.springer.com/article/10.1007/s12517-020-05499-0)
 
