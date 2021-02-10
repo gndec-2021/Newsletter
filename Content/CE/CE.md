@@ -2,7 +2,7 @@
 
 ## Message from HoD's Desk
 <p align=justify>
-![aces](Images/HSR.JPG)
+  ![aces](Images/HSR.JPG)
 It is heartening to note that “Newsletter” is being published on-line, which will be a compilation of all achievements of various departments / sections. The efforts of the Editorial Team is highly appreciable and I wish to put it on record. Congratulations to all members of the Editorial Team for bringing this “Newsletter” in an excellent present form using the latest technologies suitable for such team work.
 
 Our vision is to develop constructive thinking and analytical capabilities of every student.
