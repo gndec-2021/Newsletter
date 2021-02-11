@@ -50,7 +50,7 @@ During the valedictory function, feedback from participants was taken. The parti
 - **Er. Heena Malhotra** completed her PhD in June, 2020 from PEC, Chandigarh, on  Topic "A Study on Bheaviour of Granular Anchor Pile Foundation Subjected to Uplift Loads"
 
 - BEST PAPER AWARD "Sonia Chutani, **Dr. Jagbir Singh**" (2020). Use of Constriction factor based particle swarm optimization in design of reinforced concrete beams.  Sustainable Development through Engineering Innovations:Proceedings. doi: 10.1007/978-981-15-9554-7
-</p>
+
 
 ## Publications  
 
@@ -62,21 +62,21 @@ During the valedictory function, feedback from participants was taken. The parti
 
 - [**Pushpinder Singh**, S.K. Singh (2020). Performance Evaluation for Use of Recycled Concrete Aggregates in Flexible Pavement. Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-15-9554-7](https://www.springer.com/in/book/9789811595530?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_brand_PID100011630&utm_content=de_textlink#aboutBook)
 
-- [Vinay Kumar Bhadhwar,**Sukhwinderpal Singh**&**Balihar Singh** (2020). Biotransformation of paper mill sludge and tea waste with cow dung using vermicomposting. Bioresource Technology, 318(), 124097–. doi:10.1016/j.biortech.2020.124097](https://www.sciencedirect.com/science/article/abs/pii/S0960852420313705#:~:text=Vermicomposting%20of%20paper%20mill%20sludge,carried%20out%20using%20Eisenia%20fetida.&text=The%20TN%2C%20TP%20and%20TK,in%20EC%20and%20ash%20Content.)
+- [Vinay Kumar Bhadhwar, **Sukhwinderpal Singh** & **Balihar Singh** (2020). Biotransformation of paper mill sludge and tea waste with cow dung using vermicomposting. Bioresource Technology, 318(), 124097–. doi:10.1016/j.biortech.2020.124097](https://www.sciencedirect.com/science/article/abs/pii/S0960852420313705#:~:text=Vermicomposting%20of%20paper%20mill%20sludge,carried%20out%20using%20Eisenia%20fetida.&text=The%20TN%2C%20TP%20and%20TK,in%20EC%20and%20ash%20Content.)
 
 - [Vinay Kumar Bhadhwar,**Sukhwinderpal Singh**,&**Balihar Singh** (2020) Biotransformation of industrial waste for nutrient rich vermicompost - A review of the bioconversion process by earthworms.Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-](https://www.springer.com/in/book/9789811595530?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_brand_PID100011630&utm_content=de_textlink#aboutBook)
 
-- [**Navneet Singh, Ajitpal Singh, Harvinder Singh**(2020). Self Healing of concrete using Bacterial Solution. Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-15-9554-7](https://www.springer.com/in/book/9789811595530?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_brand_PID100011630&utm_content=de_textlink#aboutBook)
+- [**Navneet Singh, Ajitpal Singh, Harvinder Singh** (2020). Self Healing of concrete using Bacterial Solution. Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-15-9554-7](https://www.springer.com/in/book/9789811595530?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_brand_PID100011630&utm_content=de_textlink#aboutBook)
 
 - [Aakshi, **Gurdeepak Singh, Pardeep Singh** (2020),Soil Stabilization By Using Coconut Shell Ash (CSAP) and Egg Shell Powder (ESP). Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-15-9554-7](https://www.springer.com/in/book/9789811595530?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_brand_PID100011630&utm_content=de_textlink#aboutBook)
 
-- [Harwinder Kaur,**Gurdeepak Singh, Amandeep Singh** (2020),BEHAVIOUR OF SKIRTED SQUARE FOOTING RESTING ON SAND BED AND BACKFILLED BY POND ASH. Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-15-9554-7](https://www.springer.com/in/book/9789811595530?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_brand_PID100011630&utm_content=de_textlink#aboutBook)
+- [Harwinder Kaur, **Gurdeepak Singh, Amandeep Singh** (2020),BEHAVIOUR OF SKIRTED SQUARE FOOTING RESTING ON SAND BED AND BACKFILLED BY POND ASH. Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-15-9554-7](https://www.springer.com/in/book/9789811595530?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_brand_PID100011630&utm_content=de_textlink#aboutBook)
 
-- [Sandeep Kaur,**Prabhjot Singh**(2020). Design and cost analysis for the rehabilitation of a flexible pavement through the study on traffic data. Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-15-9554-7](https://www.springer.com/in/book/9789811595530?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_brand_PID100011630&utm_content=de_textlink#aboutBook)
+- [Sandeep Kaur, **Prabhjot Singh**(2020). Design and cost analysis for the rehabilitation of a flexible pavement through the study on traffic data. Sustainable Development through Engineering Innovations: Proceedings. doi: 10.1007/978-981-15-9554-7](https://www.springer.com/in/book/9789811595530?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_brand_PID100011630&utm_content=de_textlink#aboutBook)
 
 - [**Harvinder Singh**, Sushant Gupta "Orthotropic coefficients and continuity factors for reinforced concrete slabs supported on three sides", International Journal of Engineering: Transaction Basic-A (2021); 34(2), 375-381.](http://www.ije.ir/article_123138.html)
 
-- [**Harvinder Singh**(2020) “Closed-Form Solution for Shear Strength of Steel Fiber Reinforced Concrete Beams”; ACI Structural Journal; 117(3), 261-272.](https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=51721373)
+- [**Harvinder Singh** (2020) “Closed-Form Solution for Shear Strength of Steel Fiber Reinforced Concrete Beams”; ACI Structural Journal; 117(3), 261-272.](https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=51721373)
 
 - [**Harvinder Singh, Prashant Garg**.(2020)"Modelling the response of piled-raft footing: Utimate Bearing Capacity", Iranian Journal of Science and Technology: Transactions of Civil Engineering ; https://doi.org/10.1007/s40996-020-00529-z.](https://link.springer.com/article/10.1007/s40996-020-00529-z)
 
@@ -109,19 +109,19 @@ During the valedictory function, feedback from participants was taken. The parti
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
-| Sr. No. | Name of Event                                                                     | Faculty Coordinator                              | Duration | Date(s)                  | Sponsor(s)          |
-|:--------|:----------------------------------------------------------------------------------|:-------------------------------------------------|:---------|:-------------------------|:--------------------|
-| 1       | SDT on "Efficient, Trackable and Sustainable Workflow" (Run-1)                    | Dr H S Rai & Er. Yuvraj Singh                    | One Week | 02-08 December, 2020     | TEQIP-III           |
-| 2       | SDT on "Efficient, Trackable and Sustainable Workflow" (Run-2)                    | Dr H S Rai & Er. Yuvraj Singh                    | One Week | 30 Dec - 05 Jan, 2020    | TEQIP-III           |
-| 3.      | Webinar on "Modes of Teaching and Learning in Lockdown"                           | Lakhveer Singh Khana & Charnjeet Singh           | 2 Hours  | 11 May, 2020             | TEQIP-III           |
-| 4.      | International Congress on Sustainable Development through Engineering Innovations | Harvinder singh, Puneetpal singh , Prashant Garg | 3 days   | 17-18-19 September, 2020 | TEQIP-III, Springer |
-| 5.      | GENESIS 2020                                                                      | Dr. Jagbir Singh, Dr. Puneetpal Singh Cheema     | 2 days   | 5-6 March 2020           | Coca-Cola India     |
+| Sr. No. | Name of Event                                                                     | Faculty Coordinator                                         | Duration | Date(s)                  | Sponsor(s)          |
+|:--------|:----------------------------------------------------------------------------------|:------------------------------------------------------------|:---------|:-------------------------|:--------------------|
+| 1       | SDT on "Efficient, Trackable and Sustainable Workflow" (Run-1)                    | Dr H S Rai & Er. Yuvraj Singh                               | One Week | 02-08 December, 2020     | TEQIP-III           |
+| 2       | SDT on "Efficient, Trackable and Sustainable Workflow" (Run-2)                    | Dr H S Rai & Er. Yuvraj Singh                               | One Week | 30 Dec - 05 Jan, 2020    | TEQIP-III           |
+| 3.      | Webinar on "Modes of Teaching and Learning in Lockdown"                           | Er. Lakhveer Singh Khana & Er. Charnjeet Singh              | 2 Hours  | 11 May, 2020             | TEQIP-III           |
+| 4.      | International Congress on Sustainable Development through Engineering Innovations | Dr. Harvinder singh, Dr. Puneetpal singh , Dr.Prashant Garg | 3 days   | 17-18-19 September, 2020 | TEQIP-III, Springer |
+| 5.      | GENESIS 2020                                                                      | Dr. Jagbir Singh, Dr. Puneetpal Singh Cheema                | 2 days   | 5-6 March 2020           | Coca-Cola India     |
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 | Sr. No. | Name of Faculty     | Name of Event                                                                                                                   | Duration          | Date(s)                              | Organizing Institute                                                                                                                |
 |:--------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------------|:------------------|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
-| 1       | Gurpuneet Singh     | Online PDT Programme organised by IIM, Raipur.                                                                                  | 3 days            | 26/10/2020-28/10/20                  | IIM, Raipur                                                                                                                         |
+| 1       | Gurpuneet Singh     | Online PDT Programme organised by IIM, Raipur.                                                                                  | 3 days            | October 26-28, 2020                  | IIM, Raipur                                                                                                                         |
 | 2       | Pushpinder Singh    | Sustainable Development through Engineering Innovations                                                                         | 3 days            | 17 -19 Sep. 2020                     | GNDEC Ludhiana                                                                                                                      |
 | 3.      | Pushpinder Singh    | Sustainable Development through Engineering Innovations                                                                         | 3 days            | 17 -19 Sep. 2020                     | GNDEC Ludhiana, Spoken Tutorial Project, IIT Bombay                                                                                 |
 | 4.      | Pushpinder Singh    | Geosynthetics and Reinforced Soil Structures                                                                                    | 12 week course    | Jan-April 2020                       | NPTEL, IIT Madras                                                                                                                   |
