@@ -114,13 +114,15 @@ The promising future of the students lie on getting stimulated from the success 
 
 -------------------------------------------------------
 
-# ISTE Students Convention 2020 held at GNDEC
+# ISTE Students Convention 2020 held at GNDEC'
+![HSR](Images/iste3.jpeg)
 
 Indian society for Technical Education (ISTE), New Delhi’s section students convention was organized in online mode by Guru Nanak Dev Engineering College, Ludhiana. The ISTE north section comprises of states of Punjab, Himachal Pradesh, Chandigarh, Jammu & Kashmir. Giving his opening remarks, Dr. P.S. Bilga, HOD (Mechanical) representing Dr. Sehijpal Singh, Principal, GNDEC said that COVID crisis has opened up new vistas and also posed new challenges. Welcoming the guests, Dr. Arvind Dhingra, Faculty Advisor- ISTE students’ chapter GNDEC said that while it would have been much more fruitful to have a physical award ceremony nonetheless this would act as a bridge for students from different colleges to interact. Dr. R.P.Singh Suker-Chakia, Chairman, ISTE North Section said that ISTE was a non- profit body which aimed at promoting technical excellence. 19 students from various institutions under the ISTE North section were honored with Best Student award for their performance in their chapters. The awardees shared their experiences in their respective chapters and also how during this pandemic they had conducted the various activities. From Guru Nanak Dev Engineering College, Ludhiana the awardees included: Jagmeet Singh, Dilnish Kaur Bagga, Ishpreet Kaur, Shubendra Kumar, Alok Kumar, Sudhanshu Dubey and Kamya Arora.
 A debate competition was also held wherein five teams comprising of two members debated on various topics that included Covid: boon or bane, Online v/s offline mode of study, Human intelligence v/s artificial intelligence. Radhika from PCTE, Ludhiana bagged the first prize. This was followed by a group discussion session on the topic of COVID crisis. Devansh Bhushan of GNDEC was adjudged the best in this event. The events were judged by Pf. Yuvraj Singh and Pf. Chahat Jain.More than 50 students actively participated in this event. Principal GNDEC Dr. Sehijpal Singh congratulated the winners and the organizers for successful conduct of the event. Dr. Jagbir Singh, Treasurer, ISTE North section, Dr. Harmeet Singh, Professor, ME participated in the event.
 
 -------------------------------------------------------
 # International Conference on sustainable innovations started at GNDEC
+![HSR](Images/conf3.jpeg)
 
 A three day on line international conference on ‘Sustainable Development through Engineering Innovation was inaugurated by Dr S.K Dass, Director IIT Ropar today at Guru Nanak Dev Engineering College (GNDEC), Ludhiana. The conference aims at highlighting the innovative solutions to various engineering problems. Dr. Sehijpal Singh, Principal in his welcome address stressed the need for innovation to build a sustainable society. He said that college is promoting culture of innovation with support of industry. Giving further details of the conference, Dr H S Rai, Congress co- chair said that three day multi track conference shall have four parallel sessions each day. He stressed upon connectivity within nature and development which is necessary for sustainable development. The organizing secretaries informed that over 250 papers were received from researchers from around the globe. Out of which 115 papers have been accepted for publication. The papers have been published in lecture notes series of a well know publisher‘Springer’.
 
@@ -132,7 +134,7 @@ Delivering the vote of thanks, Dr.Arvind Dhingra, organizing secretary thanked a
 -------------------------------------------------------
 # Glorious victory of GNDEC team in Smart India Hackathon 2020
 
-![HSR](Images/WhatsApp Image 2.jpg)
+![HSR](Images/wi2.jpg)
 
  In yet another feather of achievement added to the cap of technical achievements, students of ScifiDevs team of Guru Nanak Dev Engineering College, Ludhiana won the World's Biggest National Level Hackathon, *Smart India Hackathon (SIH 2020). *
  Dr. Kiran Jyoti, HoD, IT said that with their hard work and perseverance, the team was able to provide real time implementable solution for the problem statement of *Adani Ports and Logistics. * with which they seemed very overwhelmed and applauded the efforts of team and college authorities. They will soon be implementing the solution by developing a Seamless Invoicing and Reconciliation System for the company to handle its business and payments as per the parameters and solution provided by the team.
@@ -143,9 +145,10 @@ Dr. Sehijpal Singh, principal  mentioned that he had complete trust in the team 
 --------------------------------------------------------
 # GNDEC students develop Smart Automatic Hand Sanitizer Dispenser
 
-![HSR](WhatsApp Image 2020-08-03 at 8.14.27 AM.jpg)
-
+![HSR](Images/sani2.jpg)
+<p align=justify)
 Innovation is a boom when utilized in an effective manner. With such vision in mind, final year Electronics Engineering students of Guru Nanak Dev Engineering College (GNDEC) came up with an ‘automatic hand sanitizer dispenser’; the much-needed call of the hour.
 MONTEKPAL SINGH, final year ECE student disclosed that the automatic hand sanitizer dispenser is made using MAKE IN INDIA theme with parts manufactured from local markets. Main features include its capability of detecting the distance from the person’s hands with the use of sensors and microcontroller. It has features like easy refillable tank and smart controlled spray system which will allow the use of sanitizer efficiently without any wastage. Furthermore, the system is tested vigorously for any problems and reliability issues. Irrespective of day or night, the programmed sensor would detect the presence of hands from a particular distance conveniently.
 Prof. Shivmanmeet Singh, under whose guidance the project was framed, mentioned that the features of the sanitizer dispenser could be enhanced in the form of automatic disinfecting chamber. He mentioned that the sanitizer dispenser was built using sturdy materials and its advanced features makes it more reliable as compared to the already available sanitizer dispensers in the market.
 Professor Ameeta Seehra, HOD, ECE, feels proud by the efforts put in by the students. Principal Dr. Sehijpal Singh, commented that with a market flooded with such products, innovation from our students is sure to transform the trends by creating such low cost and useful products.
+</p>
