@@ -10,12 +10,12 @@
 | 5       | Department of Production Engineering                             |
 | 6       | [Department of Electrical Engineering](../EE/EE.md)              |
 | 7       | [Department of Electronics & Communication](../ECE/ECE.md)       |
-| 8       | Department of Computer Science & Engineering                     |
+| 8       | [Department of Computer Science & Engineering](../CSE/CSE.md)    |
 | 9       | [Department of Information Technology](../IT/IT.md)              |
 | 10      | Department of Business Administration                            |
 | 11      | [Department of Computer Application](../MCA/mca.md)              |
 | 12      | Department of Applied Science                                    |
-| 13      | GNDEC School of Architecture                                     |
+| 13      | [GNDEC School of Architecture](../SoA/SoA.md)                    |
 | 14      | [Department of Physical Education / Sports](../Sports/Sports.md) |
 | 15      | NPTEL (Local Chapter)                                            |
 | 16      | [Training & Placement Cell](../T&P/t&p.md)                       |
