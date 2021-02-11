@@ -2,7 +2,7 @@
 
 ### For any queries or suggestions, write the Editorial board at -
 
-#### gndec-2021@gmail.com
+#### gndec.2021@gmail.com
 
 ### Address:   
 Guru Nanak Dev Engineering College   
