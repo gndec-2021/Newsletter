@@ -4,7 +4,7 @@
 
 It gives me an immense pleasure that GNDEC is publishing college newsletter which covers the achievements and activities of the institute. Moreover, despite of COVID-19 pandemic lockdowns, curfew etc the faculty, students and staff excelled in their performance. I alongwith my staff congratulate the newsletter team for projecting the institute through this Newsletter.
 
-![jsg](Images/jsg.png)
+![jsg](Images/JSG.png)
 
 
 ## Department at Glimpse
@@ -44,38 +44,40 @@ https://doi.org/10.1016/j.matpr.2020.03.705
 # Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
-| Sr. No.| Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
-|:--------|:----------------|:--------------|:---------|:--------|:---------------------|
-| 1 |Dr. Harpuneet Singh |Additive Manufacturing and Process Optimization|5 days|April 9-13, 2020|NITTTR Chandigarh|
-|2 |Dr. Harpuneet Singh |Supply Chain Management: Challenges and strategies|5 days|July 13-17, 2020|NIT Jalandhar                      |
-| 3 |Dr. Jagdeep Singh   |Workshop on Train the Trainers on Examination Reforms|3 days|Jan. 9-11, 2020|KLE Institute of Technology, Hubli               |
-| 4 |Dr. Jagdeep Singh   |Additive Manufacturing & Process Optimization|5 days|April 9-13, 2020|NITTTR Chandigarh               |
-|  5 |Dr. Jagdeep Singh   |Waste Management|5 days|May 11-15, 2020|NITTTR Chandigarh               |          |         |                      |
-|  6 |Dr. Jagdeep Singh   |Recent Advances in Material Characterization|6 days|May 23-28, 2020|NITTTR Chandigarh               |          |         |                      |
-| 7 |Dr. Jagdeep Singh   |5 Days Webinar series on Atma-Nirbhar Bharat: Transmutation from Privation to Exuberance|5 days|July 27-31, 2020|NITTTR Chandigarh               |          |         |                      |
-| 8       |Er. Kanwalpreet Sahni|Additive Manufacturing & Process|5 days|April 9-13, 2020|NITTTR Chandigarh|
-| 9       |Er. Kanwalpreet Sahni|Waste Management|5 days|May 11-15, 2020|NITTTR Chandigarh|
-| 10       |Er. Kanwalpreet Sahni|Recent Advances in Material Characterization|6 days|May 23-28, 2020|NITTTR Chandigarh|
-| 11      |Er. Kanwalpreet Sahni|5 Days Webinar series on Atma-Nirbhar Bharat: Transmutation from Privation to Exuberance|5 days|July 27-31, 2020|NITTTR Chandigarh|
-| 12       |Er. Kanwalpreet Sahni|Webinar on Online Teaching and Effective learningË Bridging the Gap|1 day|May 30, 2020|SOMME Bathinda|
-| 13      |Er. Arshpreet Kaur   |Additive Manufacturing & Process Optimization|5 days|April 9-13, 2020|NITTTR Chandigarh  |
-| 14      |Er. Arshpreet Kaur   |Robotics|5 days|May 2-6, 2020|NITTTR Chandigarh  |
-| 15      |Er. Arshpreet Kaur   |Waste Management|5 days|May 11-15, 2020|NITTTR Chandigarh|
-| 16      |Er. Arshpreet Kaur   |Additive Manufacturing & Process Optimization|5 days|April 9-13, 2020|NITTTR Chandigarh  |
-| 17      |Er. Arshpreet Kaur   |Recent Advances in Material Characterization|6 days|May 23-28, 2020|NITTTR Chandigarh|
-| 18      |Er. Arshpreet Kaur   |Enhancing Research Capabilities|5 days| June 1-5, 2020|GZSPTU Campus, Bathinda  |
-| 18      |Er. Arshpreet Kaur   |Coatings & Surface Engineering - Addressing the Needs of Industry |7 days| June 10-16, 2020|GZSPTU Campus, Bathinda  |
-| 19      |Er. Gulraj Singh  |Continuing Education Program on 3D Printing of Metals|2 dazs| Feb. 27-28, 2020| IIT, BombaY|
-| 20      |Er. Gulraj Singh  |Additive Manufacturing & Process|5 days|April 9-13, 2020|NITTTR Chandigarh|
-| 21      |Er. Gulraj Singh  |Supply Chain Management: Challenges and strategies|5 days|July 13-17, 2020|NIT Jalandhar                      |
-| 22      |Er. Gulraj Singh  |5 Days Webinar series on Atma-Nirbhar Bharat: Transmutation from Privation to Exuberance|5 days|July 27-31, 2020|NITTTR Chandigarh|
-| 23      |Er. Manjot Singh Bedi |Additive Manufacturing & Process Optimization|5 days|April 9-13, 2020|NITTTR Chandigarh  |
-| 23      |Er. Manjot Singh Bedi |National Workshop on Robotics and Control|2 days|May 16-17, 2020|Madhav Institute of Technologz and Science, Gwalior  |
-| 23      |Er. Manjot Singh Bedi |Energy Conservation and Management|5 days|April 27 - Maz 1, 2020|GNDEC, Ludhiana  |
+| Sr. No. | Name of Faculty       | Name of Event                                                                            | Duration | Date(s)                | Organizing Institute                                |
+|:------- |:--------------------- |:---------------------------------------------------------------------------------------- |:-------- |:---------------------- |:--------------------------------------------------- |
+| 1       | Dr. Harpuneet Singh   | Additive Manufacturing and Process Optimization                                          | 5 days   | April 9-13, 2020       | NITTTR Chandigarh                                   |
+| 2       | Dr. Harpuneet Singh   | Supply Chain Management: Challenges and strategies                                       | 5 days   | July 13-17, 2020       | NIT Jalandhar                                       |
+| 3       | Dr. Jagdeep Singh     | Workshop on Train the Trainers on Examination Reforms                                    | 3 days   | Jan. 9-11, 2020        | KLE Institute of Technology, Hubli                  |
+| 4       | Dr. Jagdeep Singh     | Additive Manufacturing & Process Optimization                                            | 5 days   | April 9-13, 2020       | NITTTR Chandigarh                                   |
+| 5       | Dr. Jagdeep Singh     | Waste Management                                                                         | 5 days   | May 11-15, 2020        | NITTTR Chandigarh                                   |
+| 6       | Dr. Jagdeep Singh     | Recent Advances in Material Characterization                                             | 6 days   | May 23-28, 2020        | NITTTR Chandigarh                                   |
+| 7       | Dr. Jagdeep Singh     | 5 Days Webinar series on Atma-Nirbhar Bharat: Transmutation from Privation to Exuberance | 5 days   | July 27-31, 2020       | NITTTR Chandigarh                                   |
+| 8       | Er. Kanwalpreet Sahni | Additive Manufacturing & Process                                                         | 5 days   | April 9-13, 2020       | NITTTR Chandigarh                                   |
+| 9       | Er. Kanwalpreet Sahni | Waste Management                                                                         | 5 days   | May 11-15, 2020        | NITTTR Chandigarh                                   |
+| 10      | Er. Kanwalpreet Sahni | Recent Advances in Material Characterization                                             | 6 days   | May 23-28, 2020        | NITTTR Chandigarh                                   |
+| 11      | Er. Kanwalpreet Sahni | 5 Days Webinar series on Atma-Nirbhar Bharat: Transmutation from Privation to Exuberance | 5 days   | July 27-31, 2020       | NITTTR Chandigarh                                   |
+| 12      | Er. Kanwalpreet Sahni | Webinar on Online Teaching and Effective learningË Bridging the Gap                      | 1 day    | May 30, 2020           | SOMME Bathinda                                      |
+| 13      | Er. Arshpreet Kaur    | Additive Manufacturing & Process Optimization                                            | 5 days   | April 9-13, 2020       | NITTTR Chandigarh                                   |
+| 14      | Er. Arshpreet Kaur    | Robotics                                                                                 | 5 days   | May 2-6, 2020          | NITTTR Chandigarh                                   |
+| 15      | Er. Arshpreet Kaur    | Waste Management                                                                         | 5 days   | May 11-15, 2020        | NITTTR Chandigarh                                   |
+| 16      | Er. Arshpreet Kaur    | Additive Manufacturing & Process Optimization                                            | 5 days   | April 9-13, 2020       | NITTTR Chandigarh                                   |
+| 17      | Er. Arshpreet Kaur    | Recent Advances in Material Characterization                                             | 6 days   | May 23-28, 2020        | NITTTR Chandigarh                                   |
+| 18      | Er. Arshpreet Kaur    | Enhancing Research Capabilities                                                          | 5 days   | June 1-5, 2020         | GZSPTU Campus, Bathinda                             |
+| 18      | Er. Arshpreet Kaur    | Coatings & Surface Engineering - Addressing the Needs of Industry                        | 7 days   | June 10-16, 2020       | GZSPTU Campus, Bathinda                             |
+| 19      | Er. Gulraj Singh      | Continuing Education Program on 3D Printing of Metals                                    | 2 dazs   | Feb. 27-28, 2020       | IIT, BombaY                                         |
+| 20      | Er. Gulraj Singh      | Additive Manufacturing & Process                                                         | 5 days   | April 9-13, 2020       | NITTTR Chandigarh                                   |
+| 21      | Er. Gulraj Singh      | Supply Chain Management: Challenges and strategies                                       | 5 days   | July 13-17, 2020       | NIT Jalandhar                                       |
+| 22      | Er. Gulraj Singh      | 5 Days Webinar series on Atma-Nirbhar Bharat: Transmutation from Privation to Exuberance | 5 days   | July 27-31, 2020       | NITTTR Chandigarh                                   |
+| 23      | Er. Manjot Singh Bedi | Additive Manufacturing & Process Optimization                                            | 5 days   | April 9-13, 2020       | NITTTR Chandigarh                                   |
+| 23      | Er. Manjot Singh Bedi | National Workshop on Robotics and Control                                                | 2 days   | May 16-17, 2020        | Madhav Institute of Technologz and Science, Gwalior |
+| 23      | Er. Manjot Singh Bedi | Energy Conservation and Management                                                       | 5 days   | April 27 - May 1, 2020 | GNDEC, Ludhiana                                     |
+
 
 ## Lab Upgradation
 
-- The **Manufacturing Research Lab** of **Production Engineering Department** is recently upgraded with **FTIR facility** which adds a new value for the research of different materials.
+- The **Manufacturing Research Lab** of **Production Engineering Department** is recently upgraded with **FTIR facility** which adds a new value for the research of different materials.  
+
 ## Student's Corner  
 
 ### Publications:
@@ -88,7 +90,7 @@ https://doi.org/10.1016/j.matpr.2020.03.705
 
 - **Rupinder SIngh**, **Ranvijay Kumar**, **Mohit Singh**,  **Pawan Kumar** and **Pawanpreet** (2020) On 3D printed ZnO reinforced PLA matrix composite: tensile, thermal, morphological and shape memory characteristics, Journal of Thermoplastic Composite Materials. https://doi.org/10.1177/0892705720935961
 
-#### - Student's Achievements
+### Student's Achievements
 
 **Mohit Singh**, a student of **M.Tech 2018-2020** batch has got **Six Sigma Green Belt** certification.
 He had also published 4 research papers in Scopus Journals and communicated more than 9 research papers during his post graduation.  
