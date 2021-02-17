@@ -250,3 +250,5 @@ During the valedictory function, feedback from participants was taken. The parti
 
 
 ## [Association of Civil Engineering Students](ACES.md)
+
+![aces](Images/aq.jpg)
