@@ -2,6 +2,9 @@
 
 | [Events Organied](ACES.md) | [Gallery](gallery.md) | [ACES Website](https://gndecaces.wordpress.com/) |
 
+
+![aces](Images/aq.jpg)
+
 #### Various events conducted in the past year by the students and Coordinator are provided in the following table.
 
 | Sr. No. | Name of Event Organized             | Faculty Coordinator                            | Duration | Date(s)            |

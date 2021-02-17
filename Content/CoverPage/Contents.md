@@ -4,7 +4,7 @@
 | Sr. No. | Title                                                            |
 |:--------|:-----------------------------------------------------------------|
 | 1       | [Message from Principal's Desk](../Principal/Principal.md)       |
-| 2       | GNDEC at Glance                                                  |
+| 2       | [GNDEC at Glance](../GNDEC/GNDEC.md)                             |
 | 3       | [Department of Civil Engineering](../CE/CE.md)                   |
 | 4       | [Department of Mechanical Engineering](../ME/ME.md)              |
 | 5       | [Department of Production Engineering ](../PE/PE.md)             |
