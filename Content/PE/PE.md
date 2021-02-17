@@ -2,9 +2,11 @@
 
 ## Message from HoD's Desk
 
+![jsg](Images/JSG.png)
+
 It gives me an immense pleasure that GNDEC is publishing college newsletter which covers the achievements and activities of the institute. Moreover, despite of COVID-19 pandemic lockdowns, curfew etc the faculty, students and staff excelled in their performance. I alongwith my staff congratulate the newsletter team for projecting the institute through this Newsletter.
 
-![jsg](Images/JSG.png)
+
 
 
 ## Department at Glimpse
@@ -45,7 +47,7 @@ https://doi.org/10.1016/j.matpr.2020.03.705
 
 
 | Sr. No. | Name of Faculty       | Name of Event                                                                            | Duration | Date(s)                | Organizing Institute                                |
-|:------- |:--------------------- |:---------------------------------------------------------------------------------------- |:-------- |:---------------------- |:--------------------------------------------------- |
+|:--------|:----------------------|:-----------------------------------------------------------------------------------------|:---------|:-----------------------|:----------------------------------------------------|
 | 1       | Dr. Harpuneet Singh   | Additive Manufacturing and Process Optimization                                          | 5 days   | April 9-13, 2020       | NITTTR Chandigarh                                   |
 | 2       | Dr. Harpuneet Singh   | Supply Chain Management: Challenges and strategies                                       | 5 days   | July 13-17, 2020       | NIT Jalandhar                                       |
 | 3       | Dr. Jagdeep Singh     | Workshop on Train the Trainers on Examination Reforms                                    | 3 days   | Jan. 9-11, 2020        | KLE Institute of Technology, Hubli                  |
