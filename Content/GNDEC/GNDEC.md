@@ -1,4 +1,4 @@
-![img](Images/GNDEC.png)
+![img](Images/gndec.png)
 # GNDEC at Glance
 
 | [About Us](GNDEC.md) | [GNDEC in News](News.md) |[Press Release](https://gndec.ac.in/press/) | [GNDEC Home](https://gndec.ac.in/) |
