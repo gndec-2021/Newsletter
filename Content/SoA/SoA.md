@@ -20,38 +20,38 @@ At School of Architecture, GNDEC, our focus is on the students. The responsibili
 ![HSR](Images/ed2.png)
 - **EXPERT GUEST LECTURE ON SCHOOL DESIGN PROJECT BY AR.HARINDER BOPARAI, PRINCIPAL ARCHITECT-BOPARAI ARCHITECTS AND ENGINEERS, LUDHIANA ON 20TH NOVEMBER.**  
 
-![HSR](Images/HB1.png)
+![HSR](Images/HB1.PNG)
 - **GNDEC, Ludhiana organized International Congress-Sustainable Development through Engineering Innovations. Online Presentations from Architecture domain were conducted on 19th September, where numerous Architects, planners, urban designers and policy makers attended the same.**  
 
-![HSR](Images/nn.png)  
+![HSR](Images/nn.PNG)  
 
 - **GNDEC, Ludhiana organized an online activity on the occasion of “ENVIRONMENT DAY” for the students of architecture where they have to make useful models  from the waste.**  
 
-![HSR](Images/en1.png)  
+![HSR](Images/en1.PNG)  
 
 - **GNDEC, Architecture School organized a hands-on workshop on Building Construction involving students from 1st and 2nd year, where they worked on designing and construction of outdoor furniture. The students were exposed to the operation of the designs, from paper to on-ground execution, experimenting with bricks, cement, sand etc. and also understanding the probable obstacles that might peep in during construction process**  
 
-![HSR](Images/outd.png)
+![HSR](Images/outd.PNG)
 - **GNDEC, School of Architecture, Ludhiana in association with IIA, Ludhiana center organized an “ open house discussion” on “EFFECTS OF LOCKDOWN ON ARCHITECTURE PROFESSION”**  
 
-![HSR](Images/opend.png)
+![HSR](Images/opend.PNG)
 - **GNDEC, School of Architecture, Ludhiana organized an online awareness program for female students and staff on the topic “ELIMINATION OF VIOLENCE AGAINST WOMEN”**
 
- ![HSR](Images/voil.png)
+ ![HSR](Images/voil.PNG)
 - **GNDEC, School of Architecture, Ludhiana organized an online expert lecture for architecture students on the topic “RESIDENTIAL DESIGN PROJECTS”**  
 
-![HSR](Images/des.png)
+![HSR](Images/des.PNG)
 - **GNDEC, School of Architecture, Ludhiana organized an online expert lecture for architecture students on the topic “SUSTAINABILITY IN ARCHITECTURE”**  
 
-![HSR](Images/sde.png)
+![HSR](Images/sde.PNG)
 - **GNDEC, School of Architecture, Ludhiana took an initiative towards the environment and structured an online panel discussion on the “PRESENT PANDEMIC AND ENVIRONMENT REVIVAL”**  
 
 ![HSR](Images/pen.png)
 - **GNDEC, School of Architecture, Ludhiana took an initiative for conducting classes and a series of webinars**  
 
-![HSR](Images/web.png)
+![HSR](Images/web.PNG)
 - **GNDEC, School of Architecture, Ludhiana marked world architecture day and U N World Habitat Day by conducting a series of online expert lectures on the topic “HOUSING FOR ALL”**  
-![HSR](Images/hab.png)
+![HSR](Images/hab.PNG)
 
 
 ## Faculty Achievements  
@@ -70,12 +70,11 @@ At School of Architecture, GNDEC, our focus is on the students. The responsibili
 ‘Cultural transformation through design sub theme learning from our traditional authenticity and design’ Conference at Apeejay College of Fine Arts Jalandhar (2011)
 - **Ar. Akanksha Sharma**,“Emerging Need for Incorporating Sustainable Principles in Building and Habitat Design” Sustainable Innovative Techniques in Architecture, Civil and Environment Engineering, ISBN : 978-1-63248-030-9, 26-27th April 2014
 - **Ar. Akanksha Sharma**,“A Way for Sustainable Living”Descriptio An International Refrred Journal of Apeejy College of Fine Arts,Jalandhar,(India)ISSN No.22494480 Vol No 2014.
-- **Ar. Akanksha Sharma**,“Larning from our Transformation Ethnicity and Design”Descriptio An International Refrred Journal of Apeejy College of Fine Arts,Jalandhar,(India)ISSN No.22494480 Vol No 2014.
-- **Ar. Akanksha Sharma**, “Challenges in Sustainable interior Design: A Study of Ludhiana “ NICHE, Neo-International Conference on Habitable Environments &International Professional Meet 2016, 11th-13th November 2016.
-- **Ar. Akanksha Sharma**, “Passive Construction Techniques: A Review on Residential Buildings of Ludhiana” JETIR December 2018, Volume 5, Issue 12,Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.or ISSN: 2349-5162 | UGC approved journal no 63975g./,.M
-- **Ar. Akanksha Sharma**,“ Kalka Shimla Railway- World Heritage Site “,JETIR December 2018 Volume 5, Issue 12 www.jetir.org (ISSN-2349-5162) | UGC approved journal no 63975g./,.M
-- **Ar. Akanksha Sharma**,“Stratergies for mitigating urban heat island in model town jalandhar punjab india” , IJRAR1BLP152 International Journal of Research and Analytical Reviews (IJRAR) www.ijrar.org © 2019 IJRAR January 2019, Volume 6, Issue 1 www.ijrar.org (E-ISSN 2348-1269, P- ISSN 2349-5138) http://www.ijrar.org/papers/IJRAR1BLP152.pdf
-</p>
+- **Ar. Akanksha Sharma**,“Larning from our Transformation Ethnicity and Design” Descriptio An International Refrred Journal of Apeejy College of Fine Arts,Jalandhar,(India)ISSN No.22494480 Vol No 2014.
+- **Ar. Akanksha Sharma**, “Challenges in Sustainable interior Design: A Study of Ludhiana “ NICHE, Neo-International Conference on Habitable Environments & International Professional Meet 2016, 11th-13th November 2016.
+- **Ar. Akanksha Sharma**, “Passive Construction Techniques: A Review on Residential Buildings of Ludhiana” JETIR December 2018, Volume 5, Issue 12,Journal of Emerging Technologies and Innovative Research (JETIR) 
+- **Ar. Akanksha Sharma**,“ Kalka Shimla Railway- World Heritage Site “,JETIR December 2018 Volume 5, Issue 12
+- **Ar. Akanksha Sharma**,“Stratergies for mitigating urban heat island in model town jalandhar punjab india” , IJRAR1BLP152 International Journal of Research and Analytical Reviews (IJRAR)
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
@@ -106,7 +105,7 @@ At School of Architecture, GNDEC, our focus is on the students. The responsibili
 
 ## Miscellaneous (Lab Upgradation, Infrastructure augmentation etc.)  
 
-- - The Department has facilities like Studios, Lecture halls, Computer Labs equipped with latest design software used in professional practice, an Art Lab and a Workshop. Also, department library, climatology lab, survey lab, audio visual room and printing lab will be added shortly in our department.  
+- The Department has facilities like Studios, Lecture halls, Computer Labs equipped with latest design software used in professional practice, an Art Lab and a Workshop. Also, department library, climatology lab, survey lab, audio visual room and printing lab will be added shortly in our department.  
 
 ![HSR](Images/infra1.png) ![HSR](Images/infra2.png) ![HSR](Images/infra3.png)
 
@@ -114,14 +113,13 @@ At School of Architecture, GNDEC, our focus is on the students. The responsibili
 ## Student's Corner
 
 - EDUCATIONAL VISIT TO VIRASAT-E-KHALSA, ANANDPUR SAHIB, PUNJAB ON 06TH FEBRUARY 2020
-
 - EDUCATIONAL VISIT TO INT-EXT EXPO, CHANDIGARH ON 07TH FEBRUARY 2020
 - INTERACTION WITH AR.SANGEET SHARMA IN LE-CORBUSIER CENTRE, CHANDIGARH ON 08TH FEBRUARY 2020
 - INTERACTION WITH AR.VARUN DHAM IN LE-CORBUSIER CENTRE, CHANDIGARH ON 08TH FEBRUARY 2020
 - INTERACTION WITH AR.RENU KHANNA AT HER OFFICE IN SECTOR 10 PANCHKULA ON 08TH FEBRUARY 2020
 - SITE VISIT TO 24 STOREYED MLA TOWERS NEAR CHANDIGARH ON 06TH FEBRUARY 2020
 - INTERACTION WITH AR.SANJAY GOEL AT GNDEC SCHOOL OF ARCHITECTURE ON 23RD JANUARY 2020
-</p>
+
 
 #### Student's Achievements
 
