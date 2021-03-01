@@ -5,7 +5,7 @@
 |:--------|:-----------------------------------------------------------------|
 | 1       | [Message from Principal's Desk](../Principal/Principal.md)       |
 | 2       | [GNDEC at Glance](../GNDEC/GNDEC.md)                             |
-| 3       | [Prominent Alumni](../Alumni.html)                               |
+| 3       | [Prominent Alumni](../Alumni/Alumni.md)                          |
 | 4       | [Department of Civil Engineering](../CE/CE.md)                   |
 | 5       | [Department of Mechanical Engineering](../ME/ME.md)              |
 | 6       | [Department of Production Engineering ](../PE/PE.md)             |
