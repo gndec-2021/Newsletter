@@ -3,6 +3,10 @@
 
 | [About Us](GNDEC.md) | [GNDEC in News](News.md) |[Press Release](https://gndec.ac.in/press/) | [GNDEC Home](https://gndec.ac.in/) |
 
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zIpXf4SVzUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIpXf4SVzUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
