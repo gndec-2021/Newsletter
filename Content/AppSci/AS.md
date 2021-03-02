@@ -31,8 +31,8 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 ### Mathematics ###
 - **Dr. D.S. Pathania**
 1. Chairman BOS Mathematics, College IKGPTU, Jalandhar
-2. Chairman BOS(Applied Science)m
-3. Member Acad Council, GNDEC, Ludhiana
+2. Chairman BOS(Applied Science)
+3. Member of Academic Council, GNDEC, Ludhiana
 4. Published 15 research papers in scopus and UGC approved journals
 5. Attended 8 Short Term Courses
 6. Guided one candidate leading to Ph.D course
@@ -46,6 +46,13 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 - **Sukhminder Singh**
 1. Topped in Engineering Mathematics course conducted by NPTEL, 12 week course, September-December 2020, with a consolidated score of 90% and received Elite+Gold certificate.
 2. Successfully completed Laplace Transform course conducted by NPTEL (4 weeks course), September-October 2020, with a consolidated score of 75% and received Elite+ Silver certificate.
+
+-**Rajbir Kaur**
+
+ ![HSR](Images/rajbir.JPG)
+1. NPTEL online certificate course on Basic Linear Algebra, organised by IIT Bombay, February 2020-April 2020.
+2. NPTEL online certificate course on Engineering Mathematics-I, organised by IIT Kharagpur, July 2020-December 2020.
+3.  NPTEL online certificate course on Laplace Transform, organised by Institute of Mathematical Sciences, Chennai, July 2020- December 2020.
 
 ### Physics###
 - **Dr. Randhir Singh**
@@ -106,3 +113,40 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 13. Received Certificate of Merit and Gold Medal from Gyansampada-A Knowledge Quest 2020 from Hulahul Foundation, Mumbai.
 14. Received 2 Certificate of Appreciation from Regional Coordinating Institute (RCI), Odisha in association with Unnat Bharat Abhiyan.
 15. Received Certificate of Merit from NIT Rourkela in association with Unnat Bharat Abhiyan, RCI Odisha and Genesys.
+
+- **Mandeep Kaur**
+1. Published 3 research articles in reputed SCI and Scopus indexed international journals.
+2. Attended FDP ON “ ICT INITIATIVE IN TECHNICAL EDUCATION” , organised by GNDEC, Ludhiana.
+
+- **Amanpreet Kaur Sodhi**
+1. Published 2 research articles in reputed international SCI indexed journals.
+2. Expert Lecture was delivered at ABVIET, Pragatinagar, Shimla  on 31st Oct 2019
+3. Participated in Energy Conservation and Management (FDP),One Week (May 4 - 8, 2020 ), GNDEC Ludhiana.
+4. Chemistry as a profession: Career Prospective (Webinar), One Day 29 May 2020, Rayat-Bahra Group.
+5. Attended Methodology and data Interpretation of analytical Instrumentation Technique (FDP), One Week ( 15 June - 19 June 2020), Satyabhama Institute of Sc. and Tech. Tamil Nadu, India
+6. 3rd  International Conf. on Innovative Technologies for Clean and Sustainable Development - 2 Sessions chaired on Feb19 and Feb 20, 2020 respectively, NITTTR Chandigarh
+7. Research paper was presented  in 3rd International Conf. on Innovative Technologies for Clean and Sustainable Development, 19-21 Feb 2020, NITTR, Chandigarh
+8. Smart Materials and Nanotechnology (FDP), One Week ( 02-06 Dec 2019 ), Patiala University, Punjab
+9. Research Paper was presented and accepted for publication in SDIE-2020, held in GNDEC Ludhiana, October 2020, GNDEC, Ludhiana.
+10. Member of NAAC Team for Criteria 3.
+11.	Reviewer of Research Papers for SDIE-2020, held in GNDEC Ludhiana
+12.	Conduct Official at SDIE-2020, held in GNDEC Ludhiana.
+13.	External Examiner for VIVA Exam held at PCTE on 18 Dec 2019 and GGI Khanna on 18th  June 2020.
+14.	Committee member for Study Scheme Mapping.
+15.	Reviewer of Research Papers for International Journal of Precision Technology.
+16.	Member of Student Greivance Redressal Committe, Research and development Cell and Equal opportunity Cell.
+17.	In charge Internal Complaint/ Sexual Harassment  Committee.
+18.	In charge Announcement Committee for Sports Day.
+
+
+### ENGLISH###
+- **Puneet Narang**
+1. Webinar on Women Safety Rights and Gender Equality, organised by GNDEC, TEQIP-III, July 9,2020.
+2. Attended National seminar on COVID-19 Mental Health, Solutions and Strategies, organised by Hindu College, Kapurthala,July 18, 2020.
+3. Two week online FDP on ICT tools for teaching, learning process and institute, organised by NIT, Patna, August 10- August 21, 2020.
+4. National level online Symposium on Pandemics: A Literary and Humanistic Appraisal, organised by Department of English,DAV College Abohar, August 22, 2020.
+5. Delivered expert lecture on "Empathetic communication vis-a-vis adoption of Learner Centred Approach", in AICTE sponsored FDP on "Innovative Pedagogical Methodologies and Tools for Effective learning in Engineering Education", organised by Department of Business Administration, GNDEC, Ludhiana.
+
+- **Amandeep Singh Bal**
+
+  Topped in effective writing course conducted by NPTEL and scored 83% with ELITE+SILVER certificate, January-February 2020.
