@@ -16,17 +16,11 @@
 - [Dr. Amit Jain (CSE)](https://gndec.ac.in/faculty/?id=332)
 - [Er. Harpreet Kaur (IT)](https://gndec.ac.in/faculty/?id=231)
 - Dr. Navdeep Kaur (MBA)
--  --------------  (MCA)
-- Er. Ramandeep Kaur (App. Sci.)
+- [Dr. Nandini Sharma (App. Sci.)](Profiles/Nandini.md)
 - [Ar. Navjot Kaur (SoA)](Profiles/Navjot.md)
 - [Dr. Gunjan Bhardwaj (Sports)](https://gndec.ac.in/faculty/?id=33)
 - [Er. Sachin Bagga (T&P)](https://gndec.ac.in/faculty/?id=208)
 
-
-***Contributing Editors***
-
-- xyz
-- abc
 
 # Advisory Board
 
@@ -38,5 +32,5 @@
 - [Dr. Ameeta Seehra, HoD (ECE)](https://gndec.ac.in/faculty/?id=44)
 - [Dr. Parminder Singh, HoD (CSE)](https://gndec.ac.in/faculty/?id=4)
 - [Dr. Kiran Jyoti, HoD (IT)](https://gndec.ac.in/faculty/?id=48)
-- [Dr. Parampal Singh, HoD (MBA)]
-- [Dr. D. S. Pathania, HoD (App. Sci.)]
+- Dr. Parampal Singh, HoD (MBA)
+- [Dr. D. S. Pathania, HoD (App. Sci.)](https://gndec.ac.in/faculty/?id=45)

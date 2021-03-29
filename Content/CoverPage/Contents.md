@@ -15,7 +15,8 @@
 | 10      | [Department of Information Technology](../IT/IT.md)              |
 | 11      | Department of Business Administration                            |
 | 12      | [Department of Computer Application](../MCA/mca.md)              |
-| 13      | Department of Applied Science                                    |
+| 13      | [Department of Applied Science](../AppSci/AS.md)                 |
 | 14      | [GNDEC School of Architecture](../SoA/SoA.md)                    |
 | 15      | [Department of Physical Education / Sports](../Sports/Sports.md) |
 | 16      | [Training & Placement Cell](../T&P/t&p.md)                       |
+| 17      | [STEP-GNDEC](../STEP/STEP.md)                                    |

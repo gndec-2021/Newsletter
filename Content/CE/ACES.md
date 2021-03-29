@@ -1,4 +1,4 @@
-# Association of Civil Engineering Department (ACES)
+# Association of Civil Engineering Students (ACES)
 
 | [Events Organied](ACES.md) | [Gallery](gallery.md) | [ACES Website](https://gndecaces.wordpress.com/) |
 
