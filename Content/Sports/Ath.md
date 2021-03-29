@@ -1,9 +1,5 @@
 # Athletic Meet-2020
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vf5yr2X3QHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# Athletic Meet-2020
-
 ![1](Images/Ath/1.jpg)
 
 ![1](Images/Ath/2.jpg)

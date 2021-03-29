@@ -26,6 +26,9 @@ I can vogue on behalf of my faculty colleagues and staff that we will continue t
 Wishing all our students a brilliant and bright future.
 </p>
 
+Dr. H S Rai  
+HoD, Civil Engineering Department
+
 ## Department at Glimpse
 
 ####  SDT on "Efficient, Trackable and Sustainable Workflow"
