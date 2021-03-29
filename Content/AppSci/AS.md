@@ -4,7 +4,7 @@
 
 ![HSR](Images/HOD.JPG)
 
- ##### Prof. (Dr.) D.S. Pathania
+ **Prof. (Dr.) D.S. Pathania**
 
 ## Department at a Glimpse
 
@@ -37,7 +37,6 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 **Dr. D.S. Pathania**
 
 - Chairman BOS Mathematics, College IKGPTU, Jalandhar
-
 - Chairman BOS(Applied Science)
 - Member of Academic Council, GNDEC, Ludhiana
 - Published 15 research papers in Scopus and UGC approved journals
@@ -48,7 +47,6 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 **Pragya Goyal**
 
 - Webinar on  “ *Importance of Management Principles*” Conducted by the ECE  Department, KCG College of Technology, Chennai .
-
 - Short term online course on " *Nanotechnology for electronic and photonic devices*" of duration one week conducted by PEC, Chandigarh.
 - TEQIP III sponsored webinar on "*Women Safety, Rights and Gender Equality*” conducted by GNDEC, Ludhiana.
 - Two Weeks AICTE sponsored FDP on "*Innovative Pedagogical Methodologies and tools for effective learning in Engineering Education*" Conducted by MBA department , GNDEC, Ludhiana
@@ -57,7 +55,6 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 **Sukhminder Singh**
 
 - Topped in Engineering Mathematics course conducted by NPTEL, 12 week course, September-December 2020, with a consolidated score of 90% and received Elite+Gold certificate.
-
 - Successfully completed Laplace Transform course conducted by NPTEL (4 weeks course), September-October 2020, with a consolidated score of 75% and received Elite+Silver certificate.
 
 **Rajbir Kaur**
@@ -65,9 +62,7 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
  ![HSR](Images/RAJBIR.JPG)
 
 - NPTEL online certificate course on Basic Linear Algebra, organised by IIT Bombay, February 2020-April 2020.
-
 - NPTEL online certificate course on Engineering Mathematics-I, organised by IIT Kharagpur, July 2020-December 2020.
-
 - NPTEL online certificate course on Laplace Transform, organised by Institute of Mathematical Sciences, Chennai, July 2020- December 2020.
 
 ### Physics
@@ -78,13 +73,11 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
  ![HSR](Images/rs.jpg)
 
 - Attended "*Recent trends in image processing techniques*", organised by Dept of IT GNDEC Ludhiana, 30 Dec 2019 to 20 Jan 2020.
-
 - Attended Professional development training programme conducted by IIM Raipur, 28 Jan 2020 to 1 Feb 2020.
 
 **Kuldeep Kaur**
 
 - One day TEQIP III sponsored webinar on “Women safety, rights and gender equality” organized by Guru Nanak Dev Engineering College, Ludhiana on 9th July, 2020
-
 - One day Workshop on “E-Learning” under SWAYAM-NPTEL Local Chapter organized by Guru Nanak Dev Engineering College, Ludhiana on January 24 (2020).
 - Attended  TEQIP III sponsored MOOC’S AWARENESS Workshop for faculty, organized by SWAYAM-NPTEL Local Chapter organized by Guru Nanak Dev Engineering College, Ludhiana on July 25 (2019)
 - One week AICTE sponsored workshop on Universal Human Values, AICTE IKGPTU Kapurthala Main Campus, Kapurthala, July 4-10 (2019)
@@ -97,15 +90,10 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
  Dr. Nandini Sharma completed her doctoral degree from University of Delhi in the field of solar energy materials in 2018.  Various keynote talks and presentations have been delivered by her in the Oxford University and the Surrey University situated in United Kingdom and has received travel award from NSIT, Delhi for the same. Moreover, she has been awarded in International conferences for best research work and oral presentations. Presently, she is acting as a reviewer of several international SCI journals. Being the reviewer of international SCI journals, possess more than 4 years of UG course teaching experience at the University of Delhi. Furthermore, 10 research papers in reputed international journals have been authored by her. Along with this, she is an international member of IRC Scientific and Technical Committee & Editorial Review Board on Physical and Mathematical Sciences.
 
  - Authored a book entitled “Principles of Nanotechnology: Analysis, Applications and Future Challenges”, published by LAP Lambert Academic Publishing, German publishing house, June 26, 2020, ISBN: 978-6202527620
-
  - Recognised as a reviewer of Chemical Physics journal of Elsevier, since January 2021.
-
  - Delivered an Invited Talk on topic “Characterization techniques for Studying properties of Nanomaterials”at International webinar on New Research Trends in Functional Physics, July1-4, 2020.
-
  - Delivered a session on “Emerging Teaching methods” to teachers in TEQIP III sponsored FDP on “ICT Initiatives in Technical Education” from 8-13 February, 2021 organized by SWAYAM-NPTEL Local Chapter, Guru Nanak Dev Engineering College, Ludhiana.
-
  - Participated in One day Workshop on “E-Learning” under SWAYAM-NPTEL Local Chapter organized by Guru Nanak Dev Engineering College, Ludhiana.
-
  - Awarded with the professional level certification in javascript programming language for designing applications and games, December 2020, by Whitehat Junior Private Limited.
 
 ### Chemistry  
@@ -113,7 +101,6 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 **Amanpreet Kaur Sodhi**
 
 - Published 2 research articles in reputed international SCI indexed journals.
-
 - Expert Lecture was delivered at ABVIET, Pragatinagar, Shimla  on 31st Oct 2019.
 - Participated in Energy Conservation and Management (FDP),One Week (May 4 - 8, 2020 ), GNDEC Ludhiana.
 - Chemistry as a profession: Career Prospective (Webinar), One Day 29 May 2020, Rayat-Bahra Group.
@@ -136,7 +123,6 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 **Dr. Rajvir Kaur**
 
 - Published a research article, Rajvir Kaur and Harpreet Kaur, “Electrochemical Oxidation of Amido black 10B under Amperostatic conditions with vertically Oriented Graphite/Platinum Electrodes” Springer Publication Proceedings, Lecture Notes in Civil Engineering Sustainable Development through Engineering Innovations September17-19, 2020.
-
 - Delivered the Lectures at Atal Bihari Vajpayee Govt. Institute of Engineering & Technology, Pragtinagar, Shimla (H.P) from 17-21st February, 2020.
 - Successfully completed the two Coursera and one MOOC’s course.
 - Worked as Executive member in TEQIP III sponsored FDP on “ICT Initiatives in Technical Education” from 8-13 February, 2021 organized by SWAYAM-NPTEL Local Chapter, Guru Nanak Dev Engineering College, Ludhiana.
@@ -155,7 +141,6 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 **Karan Bhalla**
 
 - Completed Course work of PhD and obtained 9.80 SGPA with first RANK in University.
-
 - Qualified 4 Weeks NPTEL Course “Basics in Inorganic Chemistry” with 1 Credit along with Elite and Silver through SWAYAM Platform from IIT Bombay.
 - Qualified 12 Weeks NPTEL Course “Reagents in Organic Synthesis” with 3 Credits along with Elite and equivalent to 1.5 FDP through SWAYAM Platform from IIT Guwahati
 - Obtained 13 Software training certification from Spoken Tutorials IIT, BOMBAY of softwares like Latex, Moodle, Scilab, R software, Open Foam, Python 3.4.3 and PHP-MySQL after successful completion of course.
@@ -174,7 +159,6 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 **Mandeep Kaur**
 
 - Published 3 research articles in reputed SCI and Scopus indexed international journals.
-
 - Attended FDP ON “ ICT INITIATIVE IN TECHNICAL EDUCATION” , organised by GNDEC, Ludhiana.
 
 
@@ -184,7 +168,6 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 **Puneet Narang**
 
 - Webinar on Women Safety Rights and Gender Equality, organised by GNDEC, TEQIP-III, July 9,2020.
-
 - Attended National seminar on COVID-19 Mental Health, Solutions and Strategies, organised by Hindu College, Kapurthala,July 18, 2020.
 - Two week online FDP on ICT tools for teaching, learning process and institute, organised by NIT, Patna, August 10- August 21, 2020.
 - National level online Symposium on Pandemics: A Literary and Humanistic Appraisal, organised by Department of English,DAV College Abohar, August 22, 2020.

@@ -7,7 +7,6 @@
 STEP GNDEC is the incubation arm of the college and has been functioning since 1986. STEP GNDEC is proud host to over 125 incubatees who have successfully graduated from our premises to become shining entrepreneurs. STEP GNDEC provides incubation facilities for technical start ups in areas of manufacturing, agro forestry , software development and agri based units. The highlights of last year at STEP GNDEC are:
 
 - Awarded Technical Business Incubator status by MSME DI, Government of India
-
 - Conducted two offline entrepreneurs awareness camps
 - Conducted 2 nos. online Technical Entrepreneurs development Programs and 2 nos. Women entrepreneurs Development Program.
 - Conducted six weeks free of cost training program for tailoring for under privileged girl students under OFDD scheme by NABARD.
