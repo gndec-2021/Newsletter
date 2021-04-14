@@ -12,7 +12,7 @@
 | 7       | [Department of Electronics & Communication](../ECE/ECE.md)       |
 | 8       | [Department of Computer Science & Engineering](../CSE/CSE.md)    |
 | 9       | [Department of Information Technology](../IT/IT.md)              |
-| 10      | Department of Business Administration                            |
+| 10      | [Department of Business Administration](../MBA/MBA.md)           |
 | 11      | [Department of Computer Application](../MCA/mca.md)              |
 | 12      | [Department of Applied Science](../AppSci/AS.md)                 |
 | 13      | [GNDEC School of Architecture](../SoA/SoA.md)                    |
