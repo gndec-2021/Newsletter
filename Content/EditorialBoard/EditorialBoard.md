@@ -2,8 +2,10 @@
 
 
 ***Editors-in-Chief***
-- [Dr. Sumeet Kaur Sehra (CSE)](https://gndec.ac.in/faculty/?id=95)
+
 - [Er. Yuvraj Singh (CE)](Profiles/YJS.md)
+- [Dr. Sumeet Kaur Sehra (CSE)](https://gndec.ac.in/faculty/?id=95)
+
 
 
 ***Departmental Editors***
@@ -15,11 +17,16 @@
 - [Er. Preeti Pannu (ECE)](https://gndec.ac.in/faculty/?id=267)
 - [Dr. Amit Jain (CSE)](https://gndec.ac.in/faculty/?id=332)
 - [Er. Harpreet Kaur (IT)](https://gndec.ac.in/faculty/?id=231)
-- Dr. Navdeep Kaur (MBA)
+- [Dr. Navdeep Kaur (MBA)](https://gndec.ac.in/faculty/?id=169)
 - [Dr. Nandini Sharma (App. Sci.)](Profiles/Nandini.md)
 - [Ar. Navjot Kaur (SoA)](Profiles/Navjot.md)
 - [Dr. Gunjan Bhardwaj (Sports)](https://gndec.ac.in/faculty/?id=33)
 - [Er. Sachin Bagga (T&P)](https://gndec.ac.in/faculty/?id=208)
+
+***Contributing Editors***
+
+- [Dr. Arvind Dhingra](https://gndec.ac.in/faculty/?id=68)
+- [Prof. Puneet Narang](https://gndec.ac.in/faculty/?id=72)
 
 
 # Advisory Board
@@ -32,5 +39,5 @@
 - [Dr. Ameeta Seehra, HoD (ECE)](https://gndec.ac.in/faculty/?id=44)
 - [Dr. Parminder Singh, HoD (CSE)](https://gndec.ac.in/faculty/?id=4)
 - [Dr. Kiran Jyoti, HoD (IT)](https://gndec.ac.in/faculty/?id=48)
-- Dr. Parampal Singh, HoD (MBA)
+- [Dr. Parampal Singh, HoD (MBA)](https://gndec.ac.in/faculty/?id=168)
 - [Dr. D. S. Pathania, HoD (App. Sci.)](https://gndec.ac.in/faculty/?id=45)
