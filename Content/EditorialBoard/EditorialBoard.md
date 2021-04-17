@@ -27,6 +27,7 @@
 
 - [Dr. Arvind Dhingra](https://gndec.ac.in/faculty/?id=68)
 - [Prof. Puneet Narang](https://gndec.ac.in/faculty/?id=72)
+- [Er. Satjot Singh Dhillon](https://gndec.ac.in/faculty/?id=182)
 
 
 # Advisory Board
