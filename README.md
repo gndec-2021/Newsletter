@@ -8,3 +8,7 @@
 An Autonomous College Under UGC Act 1956
 
 ![logo](Content/CoverPage/Images/logo.png)
+
+***Visitor Count***
+
+![Visitor Count](https://profile-counter.glitch.me/{gndec-2021}/count.svg)
